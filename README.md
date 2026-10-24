@@ -1,54 +1,96 @@
 # BOLD ANALYSIS
 
-BOLD ANALYSIS is a full-stack equity research and analytics platform for the Nifty 100 universe. The project ingests source financial data, validates it, builds a normalized SQLite data foundation, computes a rich ratio engine, runs a screener and peer analysis, and exposes the outputs via a Streamlit dashboard and FastAPI service.
+A multi-sprint financial analytics platform for Nifty 100 research, covering ETL, data quality, valuation, ratios, profiling, screening, peer comparison, dashboards, and API-driven analysis.
 
-The repository is organized around a multi-sprint delivery plan covering ETL, data quality, analytics, dashboarding, reports, NLP, clustering, and API services.
+BOLD ANALYSIS transforms raw financial source files into a clean analytics-ready database and then layers on powerful investment workflows for screening, benchmarking, and reporting.
 
-## Project Overview
+## Overview
 
-This project turns raw company financial data into an analytics-ready warehouse for:
+BOLD ANALYSIS is designed for equity research and investment analysis workflows. It combines financial data ingestion, schema validation, KPI generation, screener logic, peer benchmarking, and a rich interactive dashboard into a single project workflow.
 
-- Data ingestion and ETL from Excel and supplemental sources
-- Schema validation and DQ checks
-- Ratio and CAGR calculations across multiple years
-- Screener presets and composite quality scoring
-- Peer percentile ranking and radar comparison
-- Investment dashboard and company profile views
-- PDF tearsheets, sector reports, and portfolio summaries
-- NLP-based pros/cons generation and cash flow intelligence
-- FastAPI endpoints for programmatic access
-- KMeans cluster labeling and portfolio diagnostics
+The platform is structured to support:
 
-## Why This Project Exists
+- clean financial data loading from Excel sources
+- rigorous data-quality validation and audit outputs
+- ratio engine calculations across multiple years
+- sector and company-level analytics
+- peer group comparisons and screening filters
+- dashboard and API access for analysts
+- report generation for insights and review
 
-The goal is to create a reproducible analytics workflow for Indian large-cap equity research, with a strong emphasis on:
+## Why This Project
 
-- clean financial data capture
-- transparent formula logic and edge-case handling
-- business-ready outputs for analysts and portfolio managers
-- testable data quality gates
-- a dashboard and API usable beyond the notebook workflow
+The core objective is to build a reproducible, production-style financial research pipeline for Indian large-cap equities. The project focuses on transparency, data discipline, and analyst usability.
 
-## Core Architecture
+It brings together:
 
-- Data layer: SQLite database (`nifty100.db`)
-- ETL layer: Excel loaders, schema validation, normalizers, and audit exports
-- Analytics layer: profitability, leverage, efficiency, CAGR, valuation, and clustering modules
-- Screener layer: preset screeners and custom threshold filters
-- Dashboard layer: Streamlit multi-page analytics UI
-- API layer: FastAPI endpoints for company, screener, peer, and sector data
-- Reporting layer: PDF tearsheets, sector reports, and portfolio summaries
-- NLP layer: parser and generated pros/cons logic
+- ETL and data normalization
+- KPI formula computation and edge-case handling
+- equity screener presets and custom thresholds
+- peer percentile analysis
+- interactive dashboard views
+- API-based access to analytics data
+- PDF report generation and summary outputs
 
-## Repository Layout
+## Key Features
+
+### Data foundation
+- SQLite database generation from raw source files
+- standardized schema with 10 core tables
+- row-level audit logging and rejection tracking
+- data quality validation rules and failure exports
+
+### Analytics engine
+- profitability ratios
+- leverage and efficiency metrics
+- CAGR and growth analysis
+- cash flow intelligence
+- valuation and market cap-based indicators
+- cluster profiling and sector benchmarking
+
+### Screener and peer analysis
+- preset screeners for quality, value, growth, dividend, debt-free, and turnaround strategies
+- custom threshold-based filtering
+- peer percentile ranking across peer groups
+- radar comparison charts and benchmark views
+
+### Reporting and dashboards
+- Streamlit multi-page dashboard
+- company profile, screener, sector, trends, and capital allocation screens
+- PDF tearsheets and sector summaries
+- exports for CSV, Excel, and PDF use cases
+
+### API access
+- FastAPI back end for programmatic analytics access
+- endpoints for companies, sectors, screener, peers, valuation, and health checks
+- OpenAPI documentation available through FastAPI
+
+## Architecture
 
 ```text
-.
+Source Financial Data
+        ↓
+ETL + Normalization
+        ↓
+SQLite Data Warehouse
+        ↓
+Validation + Data Quality Checks
+        ↓
+Ratio & KPI Engine
+        ↓
+Screener + Peer Ranking + Clustering
+        ↓
+Dashboard + API + Reporting Layer
+```
+
+## Project Structure
+
+```text
+BOLD-ANALYSIS-
 ├── README.md
 ├── Makefile
 ├── requirements.txt
 ├── data/
-│   ├── source_excel/
 │   └── nifty100.db
 ├── src/
 │   ├── etl/
@@ -68,7 +110,8 @@ The goal is to create a reproducible analytics workflow for Indian large-cap equ
 ├── output/
 │   ├── load_audit.csv
 │   ├── validation_failures.csv
-│   ├── capital_allocation.csv
+│   ├── screener_output.xlsx
+│   ├── peer_comparison.xlsx
 │   ├── valuation_summary.xlsx
 │   └── ...
 ├── reports/
@@ -81,228 +124,173 @@ The goal is to create a reproducible analytics workflow for Indian large-cap equ
 │   └── acceptance_checklist.pdf
 ├── config/
 │   └── screener_config.yaml
-└── notebooks/
-    └── exploratory_queries.sql
+├── notebooks/
+│   └── exploratory_queries.sql
+└── .gitignore
 ```
 
-## Project Workflow
+## Tech Stack
 
-The project follows a sprint-based development flow with the following major phases:
+- Python
+- Pandas
+- SQLite
+- Plotly
+- Streamlit
+- FastAPI
+- SQLAlchemy / DB interactions as needed
+- ReportLab / PDF generation tools
+- Pytest for automated validation
+- Excel and CSV data processing workflows
 
-1. Data Foundation
-   - load source data, validate schema, and populate SQLite
-   - enforce DQ rules and issue tracking for failures
+## Quick Start
 
-2. Ratio Engine
-   - compute profitability, leverage, efficiency, CAGR, and cash flow KPIs
-   - populate `financial_ratios` and related outputs
-
-3. Screener and Peer Analysis
-   - apply preset filters and score quality
-   - rank companies within peer groups and generate comparison exports
-
-4. Dashboard and API
-   - expose company, screener, sector, and valuation analytics through a UI and service layer
-
-5. Reporting and NLP
-   - generate tearsheets, sector reports, pros/cons, and insight summaries
-
-6. Cluster and QA
-   - assign cluster archetypes, run acceptance gating, and verify full-suite test health
-
-## Data Foundations and Quality Rules
-
-The project enforces a strict data-quality framework:
-
-- 10 canonical SQLite tables for company, financial, price, and ratio data
-- 12 source files and 7 core Excel inputs
-- 16 validation rules across primary keys, foreign keys, balance checks, margin checks, and sales sanity rules
-- row audit and rejection logging
-- manual review of sampled companies and edge-case fixes
-
-## Key Commands
-
-The Makefile standardizes the project workflow:
+### 1. Clone the repository
 
 ```bash
-make load
-make ratios
-make test
-make report
-make dashboard
-make api
-make clean
+git clone https://github.com/abhi07-sr/BOLD-ANALYSIS-.git
+cd BOLD-ANALYSIS-
 ```
 
-### Run the ETL load
-
-```bash
-make load
-```
-
-### Generate ratio tables and analytics outputs
-
-```bash
-make ratios
-```
-
-### Run the test suite
-
-```bash
-make test
-```
-
-### Generate reports and tearsheets
-
-```bash
-make report
-```
-
-### Launch the dashboard
-
-```bash
-make dashboard
-```
-
-### Launch the API
-
-```bash
-make api
-```
-
-## Local Setup
-
-### 1) Create a virtual environment
+### 2. Create a virtual environment
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # Linux/macOS
-# or
-venv\Scripts\activate     # Windows
+source venv/bin/activate
 ```
 
-### 2) Install dependencies
+On Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+### 3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3) Load data and run tests
+### 4. Run the ETL / load pipeline
 
 ```bash
 make load
+```
+
+### 5. Generate ratios and analytics outputs
+
+```bash
+make ratios
+```
+
+### 6. Run tests
+
+```bash
 make test
 ```
 
 ## Dashboard
 
-Launch the Streamlit analytics dashboard:
+Launch the Streamlit dashboard:
 
 ```bash
 streamlit run src/dashboard/app.py
 ```
 
-The dashboard includes screens for:
+This app includes:
 
-- Home
-- Company profile
-- Screener
-- Peer comparison
-- Trends
-- Sectors
-- Capital allocation
-- Reports
+- Home overview
+- Company profile views
+- Screener with live filtering
+- Peer comparison screens
+- Sector and trend analysis
+- Capital allocation map
+- Reports and export screens
 
 ## API
 
-Run the FastAPI app:
+Start the FastAPI service:
 
 ```bash
 uvicorn src.api.main:app --reload --port 8000
 ```
 
-Open the docs:
+Then open:
 
 - Swagger UI: `http://localhost:8000/docs`
-- OpenAPI JSON: `http://localhost:8000/openapi.json`
+- OpenAPI spec: `http://localhost:8000/openapi.json`
 
-## Testing
-
-The project aims for a strong automated QA posture:
-
-- ETL unit tests
-- KPI formula tests
-- DQ rule tests
-- API integration tests
-- full pytest suite and HTML report generation
-
-Example:
+## Key Commands
 
 ```bash
-pytest tests/ -v --html=reports/pytest_report.html
+make load      # Load source files into SQLite
+make ratios    # Compute financial ratios and related KPIs
+make test      # Run pytest validation suite
+make report    # Generate reports and exports
+make dashboard # Start the Streamlit dashboard
+make api       # Start the API service
+make clean     # Remove generated artifacts and cache
 ```
 
-## Important Project Rules
+## Data Quality Standards
 
-- Use `pd.read_excel(path, header=1)` for core Excel loads when applicable
-- Normalize `company_id` by trimming spaces and uppercasing before joins
-- Store all monetary values in INR Crore
-- Skip the Financials sector when applying D/E screener logic
-- Handle formula edge cases such as negative equity, zero denominators, turnaround scenarios, and debt-free cases explicitly
-- Clearly label simulated datasets in dashboards and reports
-- Run `make test` before every Git commit
+The project enforces disciplined validation logic, including:
 
-## Deliverables Snapshot
+- PK and FK integrity checks
+- financial consistency checks
+- balance-sheet sanity rules
+- margin and sales QA rules
+- audit logging for failures and anomalies
+- manual review and sign-off flow for critical output
 
-The project is designed to produce the following outputs:
+## Sprint-Based Delivery Model
 
-- `nifty100.db` with a populated warehouse of financial tables
+The repository is organized around a structured delivery roadmap covering:
+
+- Data foundation and ETL
+- Ratio engine and financial analytics
+- Screener and peer ranking
+- Dashboard and valuation layer
+- NLP and reporting modules
+- API and clustering work
+- QA, review, and sign-off
+
+## Output Artifacts
+
+The project generates analytics and reporting outputs such as:
+
+- `nifty100.db`
 - `output/load_audit.csv`
 - `output/validation_failures.csv`
 - `output/screener_output.xlsx`
 - `output/peer_comparison.xlsx`
 - `output/valuation_summary.xlsx`
-- `output/valuation_flags.csv`
 - `output/pros_cons_generated.csv`
 - `output/cashflow_intelligence.xlsx`
-- `reports/tearsheets/` PDF company reports
-- `reports/sector/` PDF sector summaries
-- `reports/portfolio/` portfolio summary PDF
-- `src/api/main.py` with 16+ FastAPI endpoints
-- `docs/analyst_guide.pdf`
+- company and sector PDF reports
+- clustering and portfolio summary files
 
-## Acceptance Philosophy
+## Acceptance and QA
 
-The project enforces acceptance gates covering:
+The project targets a disciplined quality bar with emphasis on:
 
-- full data load integrity
-- ratio quality and validation
-- screener quality and peer comparison correctness
-- dashboard responsiveness and chart rendering
-- API availability and contract correctness
-- pytest health and zero-failure compliance
+- 0 failing tests in the validated suite
+- data integrity checks before analytics use
+- documented edge cases and anomaly handling
+- consistent dashboard and API behavior
+- analyst-ready reporting outputs
 
-## Contributing
+## Project Status
 
-This repository is intended for a structured analytical research workflow and follows reproducible engineering practices:
-
-- small, testable modules
-- explicit validations and edge-case handling
-- consistent naming and output conventions
-- reviewable data quality artifacts
+This repository is structured as a full-stack financial analytics platform for equity research and portfolio analysis. It is intended to be extended and refined as the ETL, analytics, dashboard, and reporting modules are completed.
 
 ## License
 
-This project is intended for internal analytical and research use. Please check the repository owner and project governance before commercial reuse or redistribution.
+This project is intended for analytical and research workflows. Please review repository usage constraints and validate any commercial or external redistribution before reuse.
 
-## Status
+## Contributors
 
-The repository is structured as a multi-sprint analytics platform for Nifty 100 research, with emphasis on clean financial data, robust ratio logic, and analyst-friendly reporting.
-
-## Authors / Maintainers
-
-Project delivery is organized around the sprint plan defined in this repository and is intended to support a team workflow led by the project owner and analytics lead.
+This project is organized as a collaborative, sprint-based implementation for research and analytics work.
 
 ---
 
-This README is intentionally written as a project-level overview for an analytics platform that follows a full ETL-to-dashboard pipeline. It can be refined further as the repository fills in implementation modules and generated output artifacts.
+Built for clean financial data, robust KPI logic, and analyst-grade outputs.
