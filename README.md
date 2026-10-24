@@ -1,4 +1,4 @@
-# BOLD ANALYSIS
+# BOLD ANALYTICS 
 
 Financial intelligence for the Nifty 100 universe.
 
