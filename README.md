@@ -1,38 +1,38 @@
 # BOLD ANALYSIS
 
-A financial analytics and research platform for the Nifty 100 universe.
+Financial intelligence for the Nifty 100 universe.
 
-BOLD ANALYSIS combines ETL, validation, KPI modeling, screener logic, peer benchmarking, dashboarding, and reporting into a single workflow for equity research and investment analysis.
+BOLD ANALYSIS is a research and analytics platform that turns raw financial data into a clean, queryable database and a decision-ready investment workflow.
 
-## Why it exists
+## Overview
 
-The project turns raw financial source data into a clean, analytics-ready database and then layers on research workflows for:
+Built for equity research, screening, benchmarking, and reporting, BOLD ANALYSIS combines:
 
-- company profiling
-- ratio and CAGR calculations
-- screener-based investment filtering
-- peer group comparison
-- sector and valuation analysis
-- report generation and dashboard exploration
+- ETL and data normalization
+- data-quality validation and auditing
+- ratio and CAGR analytics
+- peer comparison and screener logic
+- interactive dashboard views
+- FastAPI-based programmatic access
+- report generation and export workflows
 
-## What’s included
+## Highlights
 
-- SQLite data warehouse with normalized financial tables
-- schema validation and data-quality checks
-- ratio engine for profitability, leverage, efficiency, and growth metrics
+- SQLite-powered data foundation for company and market data
+- validation-first approach with audit and rejection tracking
+- profitability, leverage, efficiency, growth, and valuation analytics
 - preset and custom stock screeners
-- peer percentile rankings and comparative analytics
-- Streamlit dashboard for interactive analysis
-- FastAPI service for programmatic access
-- PDF and Excel report generation
+- peer percentile analysis and benchmark comparisons
+- Streamlit dashboard for analyst workflows
+- API layer for integration and automation
 
 ## Architecture
 
 ```text
-Raw Excel Data → ETL & Normalization → SQLite → Ratio Engine → Screener/Peer Analysis → Dashboard + API + Reports
+Raw Data → ETL → SQLite → Validation → Ratio Engine → Screener/Peer Analysis → Dashboard + API + Reports
 ```
 
-## Repo structure
+## Repository Structure
 
 ```text
 .
@@ -58,70 +58,65 @@ Raw Excel Data → ETL & Normalization → SQLite → Ratio Engine → Screener/
 └── .gitignore
 ```
 
-## Quick start
+## Quick Start
 
-### Setup
+### 1) Clone
 
 ```bash
 git clone https://github.com/abhi07-sr/BOLD-ANALYSIS-.git
 cd BOLD-ANALYSIS-
+```
+
+### 2) Setup environment
+
+```bash
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Common commands
+### 3) Run the workflow
 
 ```bash
 make load
 make ratios
 make test
-make report
-make dashboard
-make api
 ```
 
-### Launch dashboard
+### 4) Launch dashboard
 
 ```bash
 streamlit run src/dashboard/app.py
 ```
 
-### Launch API
+### 5) Launch API
 
 ```bash
 uvicorn src.api.main:app --reload --port 8000
 ```
 
-## Outputs
+## Key Outputs
 
-The project generates analyst-ready outputs including:
+The project generates analyst-ready files such as:
 
 - `nifty100.db`
-- audit and validation CSV files
-- screener and peer comparison exports
-- valuation summaries
-- PDF tearsheets and sector reports
-- dashboard and API deliverables
+- `output/load_audit.csv`
+- `output/validation_failures.csv`
+- `output/screener_output.xlsx`
+- `output/peer_comparison.xlsx`
+- `output/valuation_summary.xlsx`
+- `reports/tearsheets/`
+- `reports/sector/`
+- `docs/analyst_guide.pdf`
 
-## Quality bar
+## Why This Project
 
-The workflow is designed around disciplined QA and transparency:
-
-- data integrity checks before analysis
-- edge-case handling in calculations
-- reproducible outputs
-- testable analytics logic
-- review-ready reporting artifacts
-
-## Project status
-
-This repository is structured as a full-stack equity research platform for the Nifty 100 universe, with a focus on clean data pipelines, KPI quality, analyst workflow automation, and presentable outputs.
+BOLD ANALYSIS is designed to provide a transparent, structured, and reusable workflow for evaluating large-cap Indian companies with robust financial logic, analyst-friendly outputs, and easy access through dashboard and API interfaces.
 
 ## License
 
-For internal research and analytical use. Review repository usage constraints before external reuse or redistribution.
+This project is intended for research and analytical use. Review repository usage constraints before external reuse or redistribution.
 
 ---
 
-Built for clean financial data, robust KPI modeling, and actionable investment analysis.
+Built for clean financial data, actionable insights, and investment-grade analysis.
