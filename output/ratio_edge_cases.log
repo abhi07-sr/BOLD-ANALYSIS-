@@ -1,0 +1,45 @@
+# Ratio Engine Edge Cases and Anomaly Cross-Check Log
+# Categories: DATA_SOURCE_ISSUE, VERSION_DIFFERENCE, FORMULA_DISCREPANCY
+
+ROE Anomaly [VERSION_DIFFERENCE]: ADANIENT (2024) Computed=8.53%, Source=13.64%, Diff=5.11%
+ROCE Anomaly [DATA_SOURCE_ISSUE]: ADANIGREEN (2024) Computed=8.94%, Source=96.5%, Diff=87.56%
+ROE Anomaly [VERSION_DIFFERENCE]: ADANIPOWER (2024) Computed=48.28%, Source=57.1%, Diff=8.82%
+ROCE Anomaly [DATA_SOURCE_ISSUE]: ASIANPAINT (2024) Computed=35.62%, Source=41.75%, Diff=6.13%
+ROCE Anomaly [FORMULA_DISCREPANCY]: BAJAJFINSV (2024) Computed=6.12%, Source=21.14%, Diff=15.02%
+ROE Anomaly [VERSION_DIFFERENCE]: BAJAJFINSV (2024) Computed=25.85%, Source=11.72%, Diff=14.13%
+ROCE Anomaly [FORMULA_DISCREPANCY]: BAJFINANCE (2024) Computed=5.22%, Source=11.9%, Diff=6.68%
+ROCE Anomaly [DATA_SOURCE_ISSUE]: BEL (2024) Computed=4155.91%, Source=34.6%, Diff=4121.31%
+ROE Anomaly [VERSION_DIFFERENCE]: BEL (2024) Computed=4744.05%, Source=26.3%, Diff=4717.75%
+ROCE Anomaly [DATA_SOURCE_ISSUE]: BOSCHLTD (2024) Computed=26.7%, Source=20.6%, Diff=6.10%
+ROE Anomaly [VERSION_DIFFERENCE]: BPCL (2024) Computed=35.51%, Source=41.9%, Diff=6.39%
+ROCE Anomaly [FORMULA_DISCREPANCY]: CANBK (2024) Computed=1.37%, Source=6.63%, Diff=5.26%
+ROCE Anomaly [FORMULA_DISCREPANCY]: CHOLAFIN (2024) Computed=2.99%, Source=10.4%, Diff=7.41%
+ROE Anomaly [VERSION_DIFFERENCE]: COALINDIA (2024) Computed=45.17%, Source=52.0%, Diff=6.83%
+ROCE Anomaly [DATA_SOURCE_ISSUE]: GODREJCP (2024) Computed=3.21%, Source=26.49%, Diff=23.28%
+ROE Anomaly [VERSION_DIFFERENCE]: GODREJCP (2024) Computed=-4.45%, Source=6.77%, Diff=11.22%
+ROCE Anomaly [DATA_SOURCE_ISSUE]: HAL (2024) Computed=3180.75%, Source=38.9%, Diff=3141.85%
+ROE Anomaly [VERSION_DIFFERENCE]: HAL (2024) Computed=3816.58%, Source=28.9%, Diff=3787.68%
+ROCE Anomaly [FORMULA_DISCREPANCY]: HDFCBANK (2024) Computed=2.15%, Source=7.67%, Diff=5.52%
+ROCE Anomaly [DATA_SOURCE_ISSUE]: INDIGO (2024) Computed=1112.55%, Source=24.5%, Diff=1088.05%
+ROCE Anomaly [FORMULA_DISCREPANCY]: INDUSINDBK (2024) Computed=2.41%, Source=7.93%, Diff=5.52%
+ROCE Anomaly [DATA_SOURCE_ISSUE]: IRCTC (2024) Computed=46.05%, Source=53.8%, Diff=7.75%
+ROE Anomaly [VERSION_DIFFERENCE]: IRCTC (2024) Computed=34.4%, Source=40.4%, Diff=6.00%
+ROCE Anomaly [FORMULA_DISCREPANCY]: LICI (2024) Computed=56.82%, Source=63.79%, Diff=6.97%
+ROE Anomaly [VERSION_DIFFERENCE]: LICI (2024) Computed=49.45%, Source=63.61%, Diff=14.16%
+ROCE Anomaly [DATA_SOURCE_ISSUE]: LT (2024) Computed=135.95%, Source=17.18%, Diff=118.77%
+ROE Anomaly [VERSION_DIFFERENCE]: LT (2024) Computed=77.67%, Source=10.49%, Diff=67.18%
+ROCE Anomaly [DATA_SOURCE_ISSUE]: LTIM (2024) Computed=28.39%, Source=34.1%, Diff=5.71%
+ROCE Anomaly [DATA_SOURCE_ISSUE]: M&M (2024) Computed=13.42%, Source=26.98%, Diff=13.56%
+ROCE Anomaly [DATA_SOURCE_ISSUE]: NESTLEIND (2024) Computed=147.46%, Source=185.43%, Diff=37.97%
+ROE Anomaly [VERSION_DIFFERENCE]: NESTLEIND (2024) Computed=117.75%, Source=135.61%, Diff=17.86%
+ROCE Anomaly [FORMULA_DISCREPANCY]: PFC (2024) Computed=3.49%, Source=9.96%, Diff=6.47%
+ROE Anomaly [VERSION_DIFFERENCE]: PFC (2024) Computed=26.16%, Source=19.49%, Diff=6.67%
+ROCE Anomaly [FORMULA_DISCREPANCY]: PNB (2024) Computed=20.24%, Source=1.63%, Diff=18.61%
+ROE Anomaly [VERSION_DIFFERENCE]: PNB (2024) Computed=61.32%, Source=8.7%, Diff=52.62%
+ROCE Anomaly [FORMULA_DISCREPANCY]: RECLTD (2024) Computed=3.49%, Source=10.0%, Diff=6.51%
+ROCE Anomaly [FORMULA_DISCREPANCY]: SHRIRAMFIN (2024) Computed=4.07%, Source=11.3%, Diff=7.23%
+ROE Anomaly [VERSION_DIFFERENCE]: TATAMOTORS (2024) Computed=37.46%, Source=49.4%, Diff=11.94%
+ROE Anomaly [VERSION_DIFFERENCE]: TATASTEEL (2024) Computed=-5.33%, Source=6.55%, Diff=11.88%
+ROE Anomaly [DATA_SOURCE_ISSUE]: TCS (2024) Computed=50.94%, Source=0.52 (Raw source stored as decimal ratio instead of percentage)
+ROCE Anomaly [DATA_SOURCE_ISSUE]: TRENT (2024) Computed=39.32%, Source=23.8%, Diff=15.52%
+ROE Anomaly [VERSION_DIFFERENCE]: TRENT (2024) Computed=36.31%, Source=27.2%, Diff=9.11%

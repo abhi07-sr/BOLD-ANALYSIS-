@@ -1,0 +1,1156 @@
+rule_id,severity,table_name,record_id,company_id,column_name,error_message,value
+DQ-02,CRITICAL,profitandloss,120,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2013') in profitandloss (2 times)",ADANIPORTS_2013
+DQ-02,CRITICAL,profitandloss,121,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2014') in profitandloss (2 times)",ADANIPORTS_2014
+DQ-02,CRITICAL,profitandloss,122,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2015') in profitandloss (2 times)",ADANIPORTS_2015
+DQ-02,CRITICAL,profitandloss,123,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2016') in profitandloss (2 times)",ADANIPORTS_2016
+DQ-02,CRITICAL,profitandloss,124,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2017') in profitandloss (2 times)",ADANIPORTS_2017
+DQ-02,CRITICAL,profitandloss,125,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2018') in profitandloss (2 times)",ADANIPORTS_2018
+DQ-02,CRITICAL,profitandloss,126,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2019') in profitandloss (2 times)",ADANIPORTS_2019
+DQ-02,CRITICAL,profitandloss,127,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2020') in profitandloss (2 times)",ADANIPORTS_2020
+DQ-02,CRITICAL,profitandloss,128,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2021') in profitandloss (2 times)",ADANIPORTS_2021
+DQ-02,CRITICAL,profitandloss,129,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2022') in profitandloss (2 times)",ADANIPORTS_2022
+DQ-02,CRITICAL,profitandloss,130,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2023') in profitandloss (2 times)",ADANIPORTS_2023
+DQ-02,CRITICAL,profitandloss,131,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2024') in profitandloss (2 times)",ADANIPORTS_2024
+DQ-02,CRITICAL,profitandloss,132,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', 'TTM') in profitandloss (2 times)",ADANIPORTS_TTM
+DQ-02,CRITICAL,balancesheet,147,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2024') in balancesheet (2 times)",ABB_2024
+DQ-02,CRITICAL,balancesheet,159,ADANIENSOL,"company_id, year","Duplicate (company_id, year) pair ('ADANIENSOL', '2024') in balancesheet (2 times)",ADANIENSOL_2024
+DQ-02,CRITICAL,balancesheet,181,ADANIENT,"company_id, year","Duplicate (company_id, year) pair ('ADANIENT', '2024') in balancesheet (2 times)",ADANIENT_2024
+DQ-02,CRITICAL,balancesheet,199,ADANIGREEN,"company_id, year","Duplicate (company_id, year) pair ('ADANIGREEN', '2024') in balancesheet (2 times)",ADANIGREEN_2024
+DQ-02,CRITICAL,balancesheet,212,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2024') in balancesheet (2 times)",ADANIPORTS_2024
+DQ-02,CRITICAL,balancesheet,225,ADANIPOWER,"company_id, year","Duplicate (company_id, year) pair ('ADANIPOWER', '2024') in balancesheet (2 times)",ADANIPOWER_2024
+DQ-02,CRITICAL,balancesheet,238,AMBUJACEM,"company_id, year","Duplicate (company_id, year) pair ('AMBUJACEM', '2024') in balancesheet (2 times)",AMBUJACEM_2024
+DQ-02,CRITICAL,balancesheet,251,APOLLOHOSP,"company_id, year","Duplicate (company_id, year) pair ('APOLLOHOSP', '2024') in balancesheet (2 times)",APOLLOHOSP_2024
+DQ-02,CRITICAL,balancesheet,253,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2013') in balancesheet (2 times)",ASIANPAINT_2013
+DQ-02,CRITICAL,balancesheet,254,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2014') in balancesheet (2 times)",ASIANPAINT_2014
+DQ-02,CRITICAL,balancesheet,255,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2015') in balancesheet (2 times)",ASIANPAINT_2015
+DQ-02,CRITICAL,balancesheet,256,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2016') in balancesheet (2 times)",ASIANPAINT_2016
+DQ-02,CRITICAL,balancesheet,257,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2017') in balancesheet (2 times)",ASIANPAINT_2017
+DQ-02,CRITICAL,balancesheet,258,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2018') in balancesheet (2 times)",ASIANPAINT_2018
+DQ-02,CRITICAL,balancesheet,259,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2019') in balancesheet (2 times)",ASIANPAINT_2019
+DQ-02,CRITICAL,balancesheet,260,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2020') in balancesheet (2 times)",ASIANPAINT_2020
+DQ-02,CRITICAL,balancesheet,261,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2021') in balancesheet (2 times)",ASIANPAINT_2021
+DQ-02,CRITICAL,balancesheet,262,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2022') in balancesheet (2 times)",ASIANPAINT_2022
+DQ-02,CRITICAL,balancesheet,263,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2023') in balancesheet (2 times)",ASIANPAINT_2023
+DQ-02,CRITICAL,balancesheet,264,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2024') in balancesheet (4 times)",ASIANPAINT_2024
+DQ-02,CRITICAL,balancesheet,285,ATGL,"company_id, year","Duplicate (company_id, year) pair ('ATGL', '2024') in balancesheet (2 times)",ATGL_2024
+DQ-02,CRITICAL,balancesheet,310,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2024') in balancesheet (2 times)",BAJAJ-AUTO_2024
+DQ-02,CRITICAL,balancesheet,323,BAJAJFINSV,"company_id, year","Duplicate (company_id, year) pair ('BAJAJFINSV', '2024') in balancesheet (2 times)",BAJAJFINSV_2024
+DQ-02,CRITICAL,balancesheet,336,BAJAJHLDNG,"company_id, year","Duplicate (company_id, year) pair ('BAJAJHLDNG', '2024') in balancesheet (2 times)",BAJAJHLDNG_2024
+DQ-02,CRITICAL,balancesheet,347,BAJFINANCE,"company_id, year","Duplicate (company_id, year) pair ('BAJFINANCE', '2024') in balancesheet (2 times)",BAJFINANCE_2024
+DQ-02,CRITICAL,balancesheet,372,BEL,"company_id, year","Duplicate (company_id, year) pair ('BEL', '2024') in balancesheet (2 times)",BEL_2024
+DQ-02,CRITICAL,balancesheet,385,BHARTIARTL,"company_id, year","Duplicate (company_id, year) pair ('BHARTIARTL', '2024') in balancesheet (2 times)",BHARTIARTL_2024
+DQ-02,CRITICAL,balancesheet,398,BHEL,"company_id, year","Duplicate (company_id, year) pair ('BHEL', '2024') in balancesheet (2 times)",BHEL_2024
+DQ-02,CRITICAL,balancesheet,411,BOSCHLTD,"company_id, year","Duplicate (company_id, year) pair ('BOSCHLTD', '2024') in balancesheet (2 times)",BOSCHLTD_2024
+DQ-02,CRITICAL,balancesheet,424,BPCL,"company_id, year","Duplicate (company_id, year) pair ('BPCL', '2024') in balancesheet (2 times)",BPCL_2024
+DQ-02,CRITICAL,balancesheet,437,BRITANNIA,"company_id, year","Duplicate (company_id, year) pair ('BRITANNIA', '2024') in balancesheet (2 times)",BRITANNIA_2024
+DQ-02,CRITICAL,balancesheet,462,CHOLAFIN,"company_id, year","Duplicate (company_id, year) pair ('CHOLAFIN', '2024') in balancesheet (2 times)",CHOLAFIN_2024
+DQ-02,CRITICAL,balancesheet,475,CIPLA,"company_id, year","Duplicate (company_id, year) pair ('CIPLA', '2024') in balancesheet (2 times)",CIPLA_2024
+DQ-02,CRITICAL,balancesheet,488,COALINDIA,"company_id, year","Duplicate (company_id, year) pair ('COALINDIA', '2024') in balancesheet (2 times)",COALINDIA_2024
+DQ-02,CRITICAL,balancesheet,501,DABUR,"company_id, year","Duplicate (company_id, year) pair ('DABUR', '2024') in balancesheet (2 times)",DABUR_2024
+DQ-02,CRITICAL,balancesheet,514,DIVISLAB,"company_id, year","Duplicate (company_id, year) pair ('DIVISLAB', '2024') in balancesheet (2 times)",DIVISLAB_2024
+DQ-02,CRITICAL,balancesheet,527,DLF,"company_id, year","Duplicate (company_id, year) pair ('DLF', '2024') in balancesheet (2 times)",DLF_2024
+DQ-02,CRITICAL,balancesheet,540,DMART,"company_id, year","Duplicate (company_id, year) pair ('DMART', '2024') in balancesheet (2 times)",DMART_2024
+DQ-02,CRITICAL,balancesheet,553,DRREDDY,"company_id, year","Duplicate (company_id, year) pair ('DRREDDY', '2024') in balancesheet (2 times)",DRREDDY_2024
+DQ-02,CRITICAL,balancesheet,566,EICHERMOT,"company_id, year","Duplicate (company_id, year) pair ('EICHERMOT', '2024') in balancesheet (2 times)",EICHERMOT_2024
+DQ-02,CRITICAL,balancesheet,579,GAIL,"company_id, year","Duplicate (company_id, year) pair ('GAIL', '2024') in balancesheet (2 times)",GAIL_2024
+DQ-02,CRITICAL,balancesheet,592,GODREJCP,"company_id, year","Duplicate (company_id, year) pair ('GODREJCP', '2024') in balancesheet (2 times)",GODREJCP_2024
+DQ-02,CRITICAL,balancesheet,605,GRASIM,"company_id, year","Duplicate (company_id, year) pair ('GRASIM', '2024') in balancesheet (2 times)",GRASIM_2024
+DQ-02,CRITICAL,balancesheet,615,HAL,"company_id, year","Duplicate (company_id, year) pair ('HAL', '2024') in balancesheet (2 times)",HAL_2024
+DQ-02,CRITICAL,balancesheet,641,HCLTECH,"company_id, year","Duplicate (company_id, year) pair ('HCLTECH', '2024') in balancesheet (2 times)",HCLTECH_2024
+DQ-02,CRITICAL,balancesheet,654,HAVELLS,"company_id, year","Duplicate (company_id, year) pair ('HAVELLS', '2024') in balancesheet (2 times)",HAVELLS_2024
+DQ-02,CRITICAL,balancesheet,679,HDFCLIFE,"company_id, year","Duplicate (company_id, year) pair ('HDFCLIFE', '2024') in balancesheet (2 times)",HDFCLIFE_2024
+DQ-02,CRITICAL,balancesheet,691,HEROMOTOCO,"company_id, year","Duplicate (company_id, year) pair ('HEROMOTOCO', '2024') in balancesheet (2 times)",HEROMOTOCO_2024
+DQ-02,CRITICAL,balancesheet,704,HINDALCO,"company_id, year","Duplicate (company_id, year) pair ('HINDALCO', '2024') in balancesheet (2 times)",HINDALCO_2024
+DQ-02,CRITICAL,balancesheet,717,HINDUNILVR,"company_id, year","Duplicate (company_id, year) pair ('HINDUNILVR', '2024') in balancesheet (2 times)",HINDUNILVR_2024
+DQ-02,CRITICAL,balancesheet,742,ICICIGI,"company_id, year","Duplicate (company_id, year) pair ('ICICIGI', '2024') in balancesheet (2 times)",ICICIGI_2024
+DQ-02,CRITICAL,balancesheet,755,ICICIPRULI,"company_id, year","Duplicate (company_id, year) pair ('ICICIPRULI', '2024') in balancesheet (2 times)",ICICIPRULI_2024
+DQ-02,CRITICAL,balancesheet,768,INDIGO,"company_id, year","Duplicate (company_id, year) pair ('INDIGO', '2024') in balancesheet (2 times)",INDIGO_2024
+DQ-02,CRITICAL,balancesheet,793,INFY,"company_id, year","Duplicate (company_id, year) pair ('INFY', '2024') in balancesheet (2 times)",INFY_2024
+DQ-02,CRITICAL,balancesheet,806,IOC,"company_id, year","Duplicate (company_id, year) pair ('IOC', '2024') in balancesheet (2 times)",IOC_2024
+DQ-02,CRITICAL,balancesheet,817,IRCTC,"company_id, year","Duplicate (company_id, year) pair ('IRCTC', '2024') in balancesheet (2 times)",IRCTC_2024
+DQ-02,CRITICAL,balancesheet,830,IRFC,"company_id, year","Duplicate (company_id, year) pair ('IRFC', '2024') in balancesheet (2 times)",IRFC_2024
+DQ-02,CRITICAL,balancesheet,843,ITC,"company_id, year","Duplicate (company_id, year) pair ('ITC', '2024') in balancesheet (2 times)",ITC_2024
+DQ-02,CRITICAL,balancesheet,856,ONGC,"company_id, year","Duplicate (company_id, year) pair ('ONGC', '2024') in balancesheet (2 times)",ONGC_2024
+DQ-02,CRITICAL,balancesheet,869,NTPC,"company_id, year","Duplicate (company_id, year) pair ('NTPC', '2024') in balancesheet (2 times)",NTPC_2024
+DQ-02,CRITICAL,balancesheet,882,NHPC,"company_id, year","Duplicate (company_id, year) pair ('NHPC', '2024') in balancesheet (2 times)",NHPC_2024
+DQ-02,CRITICAL,balancesheet,895,NESTLEIND,"company_id, year","Duplicate (company_id, year) pair ('NESTLEIND', '2024') in balancesheet (2 times)",NESTLEIND_2024
+DQ-02,CRITICAL,balancesheet,908,NAUKRI,"company_id, year","Duplicate (company_id, year) pair ('NAUKRI', '2024') in balancesheet (2 times)",NAUKRI_2024
+DQ-02,CRITICAL,balancesheet,921,MOTHERSON,"company_id, year","Duplicate (company_id, year) pair ('MOTHERSON', '2024') in balancesheet (2 times)",MOTHERSON_2024
+DQ-02,CRITICAL,balancesheet,934,MARUTI,"company_id, year","Duplicate (company_id, year) pair ('MARUTI', '2024') in balancesheet (2 times)",MARUTI_2024
+DQ-02,CRITICAL,balancesheet,947,M&M,"company_id, year","Duplicate (company_id, year) pair ('M&M', '2024') in balancesheet (2 times)",M&M_2024
+DQ-02,CRITICAL,balancesheet,960,LTIM,"company_id, year","Duplicate (company_id, year) pair ('LTIM', '2024') in balancesheet (2 times)",LTIM_2024
+DQ-02,CRITICAL,balancesheet,973,LT,"company_id, year","Duplicate (company_id, year) pair ('LT', '2024') in balancesheet (2 times)",LT_2024
+DQ-02,CRITICAL,balancesheet,986,LODHA,"company_id, year","Duplicate (company_id, year) pair ('LODHA', '2024') in balancesheet (2 times)",LODHA_2024
+DQ-02,CRITICAL,balancesheet,993,LICI,"company_id, year","Duplicate (company_id, year) pair ('LICI', '2024') in balancesheet (2 times)",LICI_2024
+DQ-02,CRITICAL,balancesheet,1018,JSWSTEEL,"company_id, year","Duplicate (company_id, year) pair ('JSWSTEEL', '2024') in balancesheet (2 times)",JSWSTEEL_2024
+DQ-02,CRITICAL,balancesheet,1031,JSWENERGY,"company_id, year","Duplicate (company_id, year) pair ('JSWENERGY', '2024') in balancesheet (2 times)",JSWENERGY_2024
+DQ-02,CRITICAL,balancesheet,1034,JIOFIN,"company_id, year","Duplicate (company_id, year) pair ('JIOFIN', '2024') in balancesheet (2 times)",JIOFIN_2024
+DQ-02,CRITICAL,balancesheet,1047,JINDALSTEL,"company_id, year","Duplicate (company_id, year) pair ('JINDALSTEL', '2024') in balancesheet (2 times)",JINDALSTEL_2024
+DQ-02,CRITICAL,balancesheet,1060,PFC,"company_id, year","Duplicate (company_id, year) pair ('PFC', '2024') in balancesheet (2 times)",PFC_2024
+DQ-02,CRITICAL,balancesheet,1073,PIDILITIND,"company_id, year","Duplicate (company_id, year) pair ('PIDILITIND', '2024') in balancesheet (2 times)",PIDILITIND_2024
+DQ-02,CRITICAL,balancesheet,1075,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2013') in balancesheet (5 times)",PNB_2013
+DQ-02,CRITICAL,balancesheet,1076,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2014') in balancesheet (5 times)",PNB_2014
+DQ-02,CRITICAL,balancesheet,1077,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2015') in balancesheet (5 times)",PNB_2015
+DQ-02,CRITICAL,balancesheet,1078,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2016') in balancesheet (5 times)",PNB_2016
+DQ-02,CRITICAL,balancesheet,1079,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2017') in balancesheet (5 times)",PNB_2017
+DQ-02,CRITICAL,balancesheet,1080,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2018') in balancesheet (5 times)",PNB_2018
+DQ-02,CRITICAL,balancesheet,1081,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2019') in balancesheet (5 times)",PNB_2019
+DQ-02,CRITICAL,balancesheet,1082,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2020') in balancesheet (5 times)",PNB_2020
+DQ-02,CRITICAL,balancesheet,1083,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2021') in balancesheet (5 times)",PNB_2021
+DQ-02,CRITICAL,balancesheet,1084,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2022') in balancesheet (5 times)",PNB_2022
+DQ-02,CRITICAL,balancesheet,1085,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2023') in balancesheet (5 times)",PNB_2023
+DQ-02,CRITICAL,balancesheet,1086,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2024') in balancesheet (5 times)",PNB_2024
+DQ-02,CRITICAL,balancesheet,1135,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2013') in balancesheet (2 times)",POWERGRID_2013
+DQ-02,CRITICAL,balancesheet,1136,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2014') in balancesheet (2 times)",POWERGRID_2014
+DQ-02,CRITICAL,balancesheet,1137,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2015') in balancesheet (2 times)",POWERGRID_2015
+DQ-02,CRITICAL,balancesheet,1138,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2016') in balancesheet (2 times)",POWERGRID_2016
+DQ-02,CRITICAL,balancesheet,1139,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2017') in balancesheet (2 times)",POWERGRID_2017
+DQ-02,CRITICAL,balancesheet,1140,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2018') in balancesheet (2 times)",POWERGRID_2018
+DQ-02,CRITICAL,balancesheet,1141,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2019') in balancesheet (2 times)",POWERGRID_2019
+DQ-02,CRITICAL,balancesheet,1142,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2020') in balancesheet (2 times)",POWERGRID_2020
+DQ-02,CRITICAL,balancesheet,1143,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2021') in balancesheet (2 times)",POWERGRID_2021
+DQ-02,CRITICAL,balancesheet,1144,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2022') in balancesheet (2 times)",POWERGRID_2022
+DQ-02,CRITICAL,balancesheet,1145,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2023') in balancesheet (2 times)",POWERGRID_2023
+DQ-02,CRITICAL,balancesheet,1146,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2024') in balancesheet (4 times)",POWERGRID_2024
+DQ-02,CRITICAL,balancesheet,1172,RECLTD,"company_id, year","Duplicate (company_id, year) pair ('RECLTD', '2024') in balancesheet (2 times)",RECLTD_2024
+DQ-02,CRITICAL,balancesheet,1185,RELIANCE,"company_id, year","Duplicate (company_id, year) pair ('RELIANCE', '2024') in balancesheet (2 times)",RELIANCE_2024
+DQ-02,CRITICAL,balancesheet,1198,SBILIFE,"company_id, year","Duplicate (company_id, year) pair ('SBILIFE', '2024') in balancesheet (2 times)",SBILIFE_2024
+DQ-02,CRITICAL,balancesheet,1211,ZYDUSLIFE,"company_id, year","Duplicate (company_id, year) pair ('ZYDUSLIFE', '2024') in balancesheet (2 times)",ZYDUSLIFE_2024
+DQ-02,CRITICAL,balancesheet,1224,SHREECEM,"company_id, year","Duplicate (company_id, year) pair ('SHREECEM', '2024') in balancesheet (2 times)",SHREECEM_2024
+DQ-02,CRITICAL,balancesheet,1232,ZOMATO,"company_id, year","Duplicate (company_id, year) pair ('ZOMATO', '2024') in balancesheet (2 times)",ZOMATO_2024
+DQ-02,CRITICAL,balancesheet,1245,WIPRO,"company_id, year","Duplicate (company_id, year) pair ('WIPRO', '2024') in balancesheet (2 times)",WIPRO_2024
+DQ-02,CRITICAL,balancesheet,1258,VEDL,"company_id, year","Duplicate (company_id, year) pair ('VEDL', '2024') in balancesheet (2 times)",VEDL_2024
+DQ-02,CRITICAL,balancesheet,1271,SHRIRAMFIN,"company_id, year","Duplicate (company_id, year) pair ('SHRIRAMFIN', '2024') in balancesheet (2 times)",SHRIRAMFIN_2024
+DQ-02,CRITICAL,balancesheet,1296,UNITDSPR,"company_id, year","Duplicate (company_id, year) pair ('UNITDSPR', '2024') in balancesheet (2 times)",UNITDSPR_2024
+DQ-02,CRITICAL,balancesheet,1321,SUNPHARMA,"company_id, year","Duplicate (company_id, year) pair ('SUNPHARMA', '2024') in balancesheet (2 times)",SUNPHARMA_2024
+DQ-02,CRITICAL,balancesheet,1334,ULTRACEMCO,"company_id, year","Duplicate (company_id, year) pair ('ULTRACEMCO', '2024') in balancesheet (2 times)",ULTRACEMCO_2024
+DQ-02,CRITICAL,balancesheet,1347,TVSMOTOR,"company_id, year","Duplicate (company_id, year) pair ('TVSMOTOR', '2024') in balancesheet (2 times)",TVSMOTOR_2024
+DQ-02,CRITICAL,balancesheet,1360,TRENT,"company_id, year","Duplicate (company_id, year) pair ('TRENT', '2024') in balancesheet (2 times)",TRENT_2024
+DQ-02,CRITICAL,balancesheet,1373,TORNTPHARM,"company_id, year","Duplicate (company_id, year) pair ('TORNTPHARM', '2024') in balancesheet (2 times)",TORNTPHARM_2024
+DQ-02,CRITICAL,balancesheet,1386,TITAN,"company_id, year","Duplicate (company_id, year) pair ('TITAN', '2024') in balancesheet (2 times)",TITAN_2024
+DQ-02,CRITICAL,balancesheet,1388,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2013') in balancesheet (2 times)",TECHM_2013
+DQ-02,CRITICAL,balancesheet,1389,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2014') in balancesheet (2 times)",TECHM_2014
+DQ-02,CRITICAL,balancesheet,1390,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2015') in balancesheet (2 times)",TECHM_2015
+DQ-02,CRITICAL,balancesheet,1391,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2016') in balancesheet (2 times)",TECHM_2016
+DQ-02,CRITICAL,balancesheet,1392,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2017') in balancesheet (2 times)",TECHM_2017
+DQ-02,CRITICAL,balancesheet,1393,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2018') in balancesheet (2 times)",TECHM_2018
+DQ-02,CRITICAL,balancesheet,1394,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2019') in balancesheet (2 times)",TECHM_2019
+DQ-02,CRITICAL,balancesheet,1395,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2020') in balancesheet (2 times)",TECHM_2020
+DQ-02,CRITICAL,balancesheet,1396,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2021') in balancesheet (2 times)",TECHM_2021
+DQ-02,CRITICAL,balancesheet,1397,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2022') in balancesheet (2 times)",TECHM_2022
+DQ-02,CRITICAL,balancesheet,1398,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2023') in balancesheet (2 times)",TECHM_2023
+DQ-02,CRITICAL,balancesheet,1399,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2024') in balancesheet (4 times)",TECHM_2024
+DQ-02,CRITICAL,balancesheet,1412,TATACONSUM,"company_id, year","Duplicate (company_id, year) pair ('TATACONSUM', '2024') in balancesheet (2 times)",TATACONSUM_2024
+DQ-02,CRITICAL,balancesheet,1425,TCS,"company_id, year","Duplicate (company_id, year) pair ('TCS', '2024') in balancesheet (2 times)",TCS_2024
+DQ-02,CRITICAL,balancesheet,1438,TATASTEEL,"company_id, year","Duplicate (company_id, year) pair ('TATASTEEL', '2024') in balancesheet (2 times)",TATASTEEL_2024
+DQ-02,CRITICAL,balancesheet,1464,TATAPOWER,"company_id, year","Duplicate (company_id, year) pair ('TATAPOWER', '2024') in balancesheet (2 times)",TATAPOWER_2024
+DQ-02,CRITICAL,balancesheet,1477,TATAMOTORS,"company_id, year","Duplicate (company_id, year) pair ('TATAMOTORS', '2024') in balancesheet (2 times)",TATAMOTORS_2024
+DQ-02,CRITICAL,cashflow,37,TCS,"company_id, year","Duplicate (company_id, year) pair ('TCS', '2013') in cashflow (2 times)",TCS_2013
+DQ-02,CRITICAL,cashflow,38,TCS,"company_id, year","Duplicate (company_id, year) pair ('TCS', '2014') in cashflow (2 times)",TCS_2014
+DQ-02,CRITICAL,cashflow,39,TCS,"company_id, year","Duplicate (company_id, year) pair ('TCS', '2015') in cashflow (2 times)",TCS_2015
+DQ-02,CRITICAL,cashflow,40,TCS,"company_id, year","Duplicate (company_id, year) pair ('TCS', '2016') in cashflow (2 times)",TCS_2016
+DQ-02,CRITICAL,cashflow,41,TCS,"company_id, year","Duplicate (company_id, year) pair ('TCS', '2017') in cashflow (2 times)",TCS_2017
+DQ-02,CRITICAL,cashflow,42,TCS,"company_id, year","Duplicate (company_id, year) pair ('TCS', '2018') in cashflow (2 times)",TCS_2018
+DQ-02,CRITICAL,cashflow,43,TCS,"company_id, year","Duplicate (company_id, year) pair ('TCS', '2019') in cashflow (2 times)",TCS_2019
+DQ-02,CRITICAL,cashflow,44,TCS,"company_id, year","Duplicate (company_id, year) pair ('TCS', '2020') in cashflow (2 times)",TCS_2020
+DQ-02,CRITICAL,cashflow,45,TCS,"company_id, year","Duplicate (company_id, year) pair ('TCS', '2021') in cashflow (2 times)",TCS_2021
+DQ-02,CRITICAL,cashflow,46,TCS,"company_id, year","Duplicate (company_id, year) pair ('TCS', '2022') in cashflow (2 times)",TCS_2022
+DQ-02,CRITICAL,cashflow,47,TCS,"company_id, year","Duplicate (company_id, year) pair ('TCS', '2023') in cashflow (2 times)",TCS_2023
+DQ-02,CRITICAL,cashflow,48,TCS,"company_id, year","Duplicate (company_id, year) pair ('TCS', '2024') in cashflow (2 times)",TCS_2024
+DQ-02,CRITICAL,cashflow,62,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2014') in cashflow (2 times)",ABB_2014
+DQ-02,CRITICAL,cashflow,63,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2015') in cashflow (2 times)",ABB_2015
+DQ-02,CRITICAL,cashflow,64,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2016') in cashflow (2 times)",ABB_2016
+DQ-02,CRITICAL,cashflow,65,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2017') in cashflow (2 times)",ABB_2017
+DQ-02,CRITICAL,cashflow,66,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2018') in cashflow (2 times)",ABB_2018
+DQ-02,CRITICAL,cashflow,67,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2019') in cashflow (2 times)",ABB_2019
+DQ-02,CRITICAL,cashflow,68,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2020') in cashflow (2 times)",ABB_2020
+DQ-02,CRITICAL,cashflow,69,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2021') in cashflow (2 times)",ABB_2021
+DQ-02,CRITICAL,cashflow,70,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2022') in cashflow (2 times)",ABB_2022
+DQ-02,CRITICAL,cashflow,71,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2023') in cashflow (2 times)",ABB_2023
+DQ-02,CRITICAL,cashflow,72,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2024') in cashflow (2 times)",ABB_2024
+DQ-02,CRITICAL,cashflow,208,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2013') in cashflow (2 times)",BAJAJ-AUTO_2013
+DQ-02,CRITICAL,cashflow,209,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2014') in cashflow (2 times)",BAJAJ-AUTO_2014
+DQ-02,CRITICAL,cashflow,210,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2015') in cashflow (2 times)",BAJAJ-AUTO_2015
+DQ-02,CRITICAL,cashflow,211,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2016') in cashflow (2 times)",BAJAJ-AUTO_2016
+DQ-02,CRITICAL,cashflow,212,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2017') in cashflow (2 times)",BAJAJ-AUTO_2017
+DQ-02,CRITICAL,cashflow,213,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2018') in cashflow (2 times)",BAJAJ-AUTO_2018
+DQ-02,CRITICAL,cashflow,214,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2019') in cashflow (2 times)",BAJAJ-AUTO_2019
+DQ-02,CRITICAL,cashflow,215,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2020') in cashflow (2 times)",BAJAJ-AUTO_2020
+DQ-02,CRITICAL,cashflow,216,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2021') in cashflow (2 times)",BAJAJ-AUTO_2021
+DQ-02,CRITICAL,cashflow,217,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2022') in cashflow (2 times)",BAJAJ-AUTO_2022
+DQ-02,CRITICAL,cashflow,218,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2023') in cashflow (2 times)",BAJAJ-AUTO_2023
+DQ-02,CRITICAL,cashflow,219,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2024') in cashflow (2 times)",BAJAJ-AUTO_2024
+DQ-02,CRITICAL,financial_ratios,2,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2014') in financial_ratios (2 times)",ABB_2014
+DQ-02,CRITICAL,financial_ratios,4,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2015') in financial_ratios (2 times)",ABB_2015
+DQ-02,CRITICAL,financial_ratios,6,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2016') in financial_ratios (2 times)",ABB_2016
+DQ-02,CRITICAL,financial_ratios,8,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2017') in financial_ratios (2 times)",ABB_2017
+DQ-02,CRITICAL,financial_ratios,10,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2018') in financial_ratios (2 times)",ABB_2018
+DQ-02,CRITICAL,financial_ratios,12,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2019') in financial_ratios (2 times)",ABB_2019
+DQ-02,CRITICAL,financial_ratios,14,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2020') in financial_ratios (2 times)",ABB_2020
+DQ-02,CRITICAL,financial_ratios,16,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2021') in financial_ratios (2 times)",ABB_2021
+DQ-02,CRITICAL,financial_ratios,18,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2022') in financial_ratios (2 times)",ABB_2022
+DQ-02,CRITICAL,financial_ratios,20,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2023') in financial_ratios (2 times)",ABB_2023
+DQ-02,CRITICAL,financial_ratios,22,ABB,"company_id, year","Duplicate (company_id, year) pair ('ABB', '2024') in financial_ratios (2 times)",ABB_2024
+DQ-02,CRITICAL,financial_ratios,55,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2013') in financial_ratios (2 times)",ADANIPORTS_2013
+DQ-02,CRITICAL,financial_ratios,56,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2014') in financial_ratios (2 times)",ADANIPORTS_2014
+DQ-02,CRITICAL,financial_ratios,57,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2015') in financial_ratios (2 times)",ADANIPORTS_2015
+DQ-02,CRITICAL,financial_ratios,58,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2016') in financial_ratios (2 times)",ADANIPORTS_2016
+DQ-02,CRITICAL,financial_ratios,59,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2017') in financial_ratios (2 times)",ADANIPORTS_2017
+DQ-02,CRITICAL,financial_ratios,60,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2018') in financial_ratios (2 times)",ADANIPORTS_2018
+DQ-02,CRITICAL,financial_ratios,61,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2019') in financial_ratios (2 times)",ADANIPORTS_2019
+DQ-02,CRITICAL,financial_ratios,62,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2020') in financial_ratios (2 times)",ADANIPORTS_2020
+DQ-02,CRITICAL,financial_ratios,63,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2021') in financial_ratios (2 times)",ADANIPORTS_2021
+DQ-02,CRITICAL,financial_ratios,64,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2022') in financial_ratios (2 times)",ADANIPORTS_2022
+DQ-02,CRITICAL,financial_ratios,65,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2023') in financial_ratios (2 times)",ADANIPORTS_2023
+DQ-02,CRITICAL,financial_ratios,66,ADANIPORTS,"company_id, year","Duplicate (company_id, year) pair ('ADANIPORTS', '2024') in financial_ratios (2 times)",ADANIPORTS_2024
+DQ-02,CRITICAL,financial_ratios,114,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2013') in financial_ratios (2 times)",ASIANPAINT_2013
+DQ-02,CRITICAL,financial_ratios,116,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2014') in financial_ratios (2 times)",ASIANPAINT_2014
+DQ-02,CRITICAL,financial_ratios,118,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2015') in financial_ratios (2 times)",ASIANPAINT_2015
+DQ-02,CRITICAL,financial_ratios,120,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2016') in financial_ratios (2 times)",ASIANPAINT_2016
+DQ-02,CRITICAL,financial_ratios,122,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2017') in financial_ratios (2 times)",ASIANPAINT_2017
+DQ-02,CRITICAL,financial_ratios,124,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2018') in financial_ratios (2 times)",ASIANPAINT_2018
+DQ-02,CRITICAL,financial_ratios,126,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2019') in financial_ratios (2 times)",ASIANPAINT_2019
+DQ-02,CRITICAL,financial_ratios,128,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2020') in financial_ratios (2 times)",ASIANPAINT_2020
+DQ-02,CRITICAL,financial_ratios,130,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2021') in financial_ratios (2 times)",ASIANPAINT_2021
+DQ-02,CRITICAL,financial_ratios,132,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2022') in financial_ratios (2 times)",ASIANPAINT_2022
+DQ-02,CRITICAL,financial_ratios,134,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2023') in financial_ratios (2 times)",ASIANPAINT_2023
+DQ-02,CRITICAL,financial_ratios,136,ASIANPAINT,"company_id, year","Duplicate (company_id, year) pair ('ASIANPAINT', '2024') in financial_ratios (2 times)",ASIANPAINT_2024
+DQ-02,CRITICAL,financial_ratios,138,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2013') in financial_ratios (2 times)",BAJAJ-AUTO_2013
+DQ-02,CRITICAL,financial_ratios,140,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2014') in financial_ratios (2 times)",BAJAJ-AUTO_2014
+DQ-02,CRITICAL,financial_ratios,142,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2015') in financial_ratios (2 times)",BAJAJ-AUTO_2015
+DQ-02,CRITICAL,financial_ratios,144,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2016') in financial_ratios (2 times)",BAJAJ-AUTO_2016
+DQ-02,CRITICAL,financial_ratios,146,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2017') in financial_ratios (2 times)",BAJAJ-AUTO_2017
+DQ-02,CRITICAL,financial_ratios,148,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2018') in financial_ratios (2 times)",BAJAJ-AUTO_2018
+DQ-02,CRITICAL,financial_ratios,150,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2019') in financial_ratios (2 times)",BAJAJ-AUTO_2019
+DQ-02,CRITICAL,financial_ratios,152,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2020') in financial_ratios (2 times)",BAJAJ-AUTO_2020
+DQ-02,CRITICAL,financial_ratios,154,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2021') in financial_ratios (2 times)",BAJAJ-AUTO_2021
+DQ-02,CRITICAL,financial_ratios,156,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2022') in financial_ratios (2 times)",BAJAJ-AUTO_2022
+DQ-02,CRITICAL,financial_ratios,158,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2023') in financial_ratios (2 times)",BAJAJ-AUTO_2023
+DQ-02,CRITICAL,financial_ratios,160,BAJAJ-AUTO,"company_id, year","Duplicate (company_id, year) pair ('BAJAJ-AUTO', '2024') in financial_ratios (2 times)",BAJAJ-AUTO_2024
+DQ-02,CRITICAL,financial_ratios,850,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2013') in financial_ratios (5 times)",PNB_2013
+DQ-02,CRITICAL,financial_ratios,855,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2014') in financial_ratios (5 times)",PNB_2014
+DQ-02,CRITICAL,financial_ratios,860,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2015') in financial_ratios (5 times)",PNB_2015
+DQ-02,CRITICAL,financial_ratios,865,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2016') in financial_ratios (5 times)",PNB_2016
+DQ-02,CRITICAL,financial_ratios,870,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2017') in financial_ratios (5 times)",PNB_2017
+DQ-02,CRITICAL,financial_ratios,875,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2018') in financial_ratios (5 times)",PNB_2018
+DQ-02,CRITICAL,financial_ratios,880,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2019') in financial_ratios (5 times)",PNB_2019
+DQ-02,CRITICAL,financial_ratios,885,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2020') in financial_ratios (5 times)",PNB_2020
+DQ-02,CRITICAL,financial_ratios,890,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2021') in financial_ratios (5 times)",PNB_2021
+DQ-02,CRITICAL,financial_ratios,895,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2022') in financial_ratios (5 times)",PNB_2022
+DQ-02,CRITICAL,financial_ratios,900,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2023') in financial_ratios (5 times)",PNB_2023
+DQ-02,CRITICAL,financial_ratios,905,PNB,"company_id, year","Duplicate (company_id, year) pair ('PNB', '2024') in financial_ratios (5 times)",PNB_2024
+DQ-02,CRITICAL,financial_ratios,910,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2013') in financial_ratios (2 times)",POWERGRID_2013
+DQ-02,CRITICAL,financial_ratios,912,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2014') in financial_ratios (2 times)",POWERGRID_2014
+DQ-02,CRITICAL,financial_ratios,914,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2015') in financial_ratios (2 times)",POWERGRID_2015
+DQ-02,CRITICAL,financial_ratios,916,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2016') in financial_ratios (2 times)",POWERGRID_2016
+DQ-02,CRITICAL,financial_ratios,918,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2017') in financial_ratios (2 times)",POWERGRID_2017
+DQ-02,CRITICAL,financial_ratios,920,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2018') in financial_ratios (2 times)",POWERGRID_2018
+DQ-02,CRITICAL,financial_ratios,922,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2019') in financial_ratios (2 times)",POWERGRID_2019
+DQ-02,CRITICAL,financial_ratios,924,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2020') in financial_ratios (2 times)",POWERGRID_2020
+DQ-02,CRITICAL,financial_ratios,926,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2021') in financial_ratios (2 times)",POWERGRID_2021
+DQ-02,CRITICAL,financial_ratios,928,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2022') in financial_ratios (2 times)",POWERGRID_2022
+DQ-02,CRITICAL,financial_ratios,930,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2023') in financial_ratios (2 times)",POWERGRID_2023
+DQ-02,CRITICAL,financial_ratios,932,POWERGRID,"company_id, year","Duplicate (company_id, year) pair ('POWERGRID', '2024') in financial_ratios (2 times)",POWERGRID_2024
+DQ-02,CRITICAL,financial_ratios,1077,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2013') in financial_ratios (2 times)",TECHM_2013
+DQ-02,CRITICAL,financial_ratios,1079,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2014') in financial_ratios (2 times)",TECHM_2014
+DQ-02,CRITICAL,financial_ratios,1081,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2015') in financial_ratios (2 times)",TECHM_2015
+DQ-02,CRITICAL,financial_ratios,1083,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2016') in financial_ratios (2 times)",TECHM_2016
+DQ-02,CRITICAL,financial_ratios,1085,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2017') in financial_ratios (2 times)",TECHM_2017
+DQ-02,CRITICAL,financial_ratios,1087,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2018') in financial_ratios (2 times)",TECHM_2018
+DQ-02,CRITICAL,financial_ratios,1089,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2019') in financial_ratios (2 times)",TECHM_2019
+DQ-02,CRITICAL,financial_ratios,1091,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2020') in financial_ratios (2 times)",TECHM_2020
+DQ-02,CRITICAL,financial_ratios,1093,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2021') in financial_ratios (2 times)",TECHM_2021
+DQ-02,CRITICAL,financial_ratios,1095,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2022') in financial_ratios (2 times)",TECHM_2022
+DQ-02,CRITICAL,financial_ratios,1097,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2023') in financial_ratios (2 times)",TECHM_2023
+DQ-02,CRITICAL,financial_ratios,1099,TECHM,"company_id, year","Duplicate (company_id, year) pair ('TECHM', '2024') in financial_ratios (2 times)",TECHM_2024
+DQ-03,CRITICAL,analysis,17,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,analysis,18,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,analysis,19,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,analysis,20,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,balancesheet,1200,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1201,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1202,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1203,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1204,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1205,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1206,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1207,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1208,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1209,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1210,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1211,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1212,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1226,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,balancesheet,1227,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,balancesheet,1228,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,balancesheet,1229,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,balancesheet,1230,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,balancesheet,1231,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,balancesheet,1232,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,balancesheet,1233,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,balancesheet,1234,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,balancesheet,1235,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,balancesheet,1236,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,balancesheet,1237,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,balancesheet,1238,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,balancesheet,1239,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,balancesheet,1240,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,balancesheet,1241,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,balancesheet,1242,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,balancesheet,1243,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,balancesheet,1244,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,balancesheet,1245,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,balancesheet,1246,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,balancesheet,1247,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,balancesheet,1248,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,balancesheet,1249,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,balancesheet,1250,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,balancesheet,1251,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,balancesheet,1252,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,balancesheet,1253,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,balancesheet,1254,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,balancesheet,1255,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,balancesheet,1256,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,balancesheet,1257,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,balancesheet,1258,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,balancesheet,1259,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,balancesheet,1285,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,balancesheet,1286,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,balancesheet,1287,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,balancesheet,1288,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,balancesheet,1289,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,balancesheet,1290,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,balancesheet,1291,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,balancesheet,1292,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,balancesheet,1293,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,balancesheet,1294,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,balancesheet,1295,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,balancesheet,1296,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,balancesheet,1297,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,balancesheet,1298,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,balancesheet,1299,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,balancesheet,1300,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,balancesheet,1301,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,balancesheet,1302,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,balancesheet,1303,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,balancesheet,1304,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,balancesheet,1305,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,balancesheet,1306,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,balancesheet,1307,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,balancesheet,1308,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,balancesheet,1309,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,balancesheet,1323,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1324,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1325,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1326,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1327,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1328,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1329,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1330,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1331,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1332,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1333,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1334,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1335,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1170,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1171,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1172,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1173,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1174,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1175,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1176,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1177,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1178,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1179,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1180,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1181,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1182,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,cashflow,1183,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,cashflow,1184,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,cashflow,1185,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,cashflow,1186,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,cashflow,1187,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,cashflow,1188,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,cashflow,1189,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,cashflow,1190,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,cashflow,1191,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,cashflow,1192,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,cashflow,1193,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,cashflow,1194,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,cashflow,1195,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,cashflow,1196,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,cashflow,1197,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,cashflow,1198,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,cashflow,1199,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,cashflow,1200,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,cashflow,1201,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,cashflow,1202,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,cashflow,1203,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,cashflow,1204,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,cashflow,1205,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,cashflow,1206,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,cashflow,1207,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,cashflow,1208,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,cashflow,1209,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,cashflow,1210,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,cashflow,1211,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,cashflow,1212,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,cashflow,1213,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,cashflow,1214,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,cashflow,1215,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,cashflow,1216,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,cashflow,1217,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,cashflow,1218,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,cashflow,1219,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,cashflow,1220,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,cashflow,1221,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,cashflow,1222,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,cashflow,1223,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,cashflow,1224,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,cashflow,1225,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,cashflow,1226,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,cashflow,1227,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,cashflow,1228,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,cashflow,1229,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,cashflow,1230,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,cashflow,1231,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,cashflow,1232,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,cashflow,1233,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,cashflow,1234,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,cashflow,1235,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,cashflow,1236,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,cashflow,1237,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,cashflow,1238,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,cashflow,1239,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,cashflow,1240,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,cashflow,1241,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,cashflow,1242,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,cashflow,1243,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,cashflow,1244,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,cashflow,1245,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,cashflow,1246,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,cashflow,1247,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1248,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1249,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1250,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1251,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1252,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1253,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1254,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1255,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1256,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1257,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1258,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1458,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1459,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1460,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1461,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1462,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1463,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1464,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1465,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1466,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1467,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1468,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1469,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1470,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1471,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1472,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1473,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,documents,1474,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1475,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1476,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1477,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1478,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1479,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1480,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1481,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1482,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1483,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1484,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1485,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1486,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1487,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1488,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1489,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,documents,1490,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1491,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1492,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1493,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1494,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1495,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1496,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1497,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1498,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1499,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1500,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1501,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1502,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1503,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1504,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1505,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,documents,1506,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1507,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1508,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1509,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1510,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1511,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1512,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1513,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1514,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1515,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1516,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1517,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1518,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1519,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1520,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1521,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,documents,1522,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1523,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1524,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1525,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1526,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1527,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1528,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1529,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1530,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1531,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1532,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1533,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1534,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1535,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1536,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1537,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,documents,1538,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1539,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1540,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1541,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1542,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1543,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1544,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1545,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1546,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1547,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1548,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1549,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1550,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1551,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1552,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1553,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,documents,1554,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1555,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1556,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1557,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1558,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1559,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1560,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1561,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1562,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1563,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1564,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1565,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1566,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1567,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1568,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1569,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,documents,1570,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1571,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1572,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1573,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1574,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1575,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1576,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1577,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1578,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1579,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1580,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1581,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1582,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1583,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1584,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,documents,1585,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,financial_ratios,1149,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,financial_ratios,1150,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,financial_ratios,1151,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,financial_ratios,1152,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,financial_ratios,1153,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,financial_ratios,1154,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,financial_ratios,1155,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,financial_ratios,1156,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,financial_ratios,1157,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,financial_ratios,1158,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,financial_ratios,1159,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,financial_ratios,1160,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,financial_ratios,1161,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,financial_ratios,1162,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,financial_ratios,1163,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,financial_ratios,1164,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,financial_ratios,1165,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,financial_ratios,1166,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,financial_ratios,1167,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,financial_ratios,1168,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,financial_ratios,1169,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,financial_ratios,1170,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,financial_ratios,1171,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,financial_ratios,1172,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,profitandloss,1263,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1264,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1265,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1266,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1267,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1268,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1269,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1270,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1271,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1272,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1273,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1274,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1275,ULTRACEMCO,company_id,Foreign key violation: company_id 'ULTRACEMCO' not found in companies table,ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1276,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,profitandloss,1277,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,profitandloss,1278,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,profitandloss,1279,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,profitandloss,1280,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,profitandloss,1281,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,profitandloss,1282,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,profitandloss,1283,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,profitandloss,1284,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,profitandloss,1285,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,profitandloss,1286,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,profitandloss,1287,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,profitandloss,1288,UNIONBANK,company_id,Foreign key violation: company_id 'UNIONBANK' not found in companies table,UNIONBANK
+DQ-03,CRITICAL,profitandloss,1289,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,profitandloss,1290,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,profitandloss,1291,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,profitandloss,1292,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,profitandloss,1293,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,profitandloss,1294,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,profitandloss,1295,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,profitandloss,1296,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,profitandloss,1297,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,profitandloss,1298,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,profitandloss,1299,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,profitandloss,1300,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,profitandloss,1301,UNITDSPR,company_id,Foreign key violation: company_id 'UNITDSPR' not found in companies table,UNITDSPR
+DQ-03,CRITICAL,profitandloss,1302,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,profitandloss,1303,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,profitandloss,1304,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,profitandloss,1305,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,profitandloss,1306,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,profitandloss,1307,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,profitandloss,1308,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,profitandloss,1309,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,profitandloss,1310,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,profitandloss,1311,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,profitandloss,1312,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,profitandloss,1313,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,profitandloss,1314,VBL,company_id,Foreign key violation: company_id 'VBL' not found in companies table,VBL
+DQ-03,CRITICAL,profitandloss,1315,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,profitandloss,1316,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,profitandloss,1317,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,profitandloss,1318,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,profitandloss,1319,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,profitandloss,1320,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,profitandloss,1321,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,profitandloss,1322,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,profitandloss,1323,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,profitandloss,1324,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,profitandloss,1325,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,profitandloss,1326,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,profitandloss,1327,VEDL,company_id,Foreign key violation: company_id 'VEDL' not found in companies table,VEDL
+DQ-03,CRITICAL,profitandloss,1328,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,profitandloss,1329,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,profitandloss,1330,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,profitandloss,1331,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,profitandloss,1332,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,profitandloss,1333,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,profitandloss,1334,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,profitandloss,1335,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,profitandloss,1336,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,profitandloss,1337,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,profitandloss,1338,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,profitandloss,1339,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,profitandloss,1340,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,profitandloss,1341,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,profitandloss,1342,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,profitandloss,1343,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,profitandloss,1344,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,profitandloss,1345,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,profitandloss,1346,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,profitandloss,1347,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,profitandloss,1348,ZOMATO,company_id,Foreign key violation: company_id 'ZOMATO' not found in companies table,ZOMATO
+DQ-03,CRITICAL,profitandloss,1349,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1350,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1351,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1352,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1353,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1354,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1355,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1356,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1357,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1358,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1359,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1360,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1361,ZYDUSLIFE,company_id,Foreign key violation: company_id 'ZYDUSLIFE' not found in companies table,ZYDUSLIFE
+DQ-03,CRITICAL,prosandcons,12,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-03,CRITICAL,prosandcons,13,WIPRO,company_id,Foreign key violation: company_id 'WIPRO' not found in companies table,WIPRO
+DQ-05,WARNING,profitandloss,96,ADANIENSOL,opm_percentage,"OPM mismatch: calc=34.39%, reported=30.0% (sales=16607.0, op=5711.0)",calc_34.4_rep_30.0
+DQ-05,WARNING,profitandloss,97,ADANIENSOL,opm_percentage,"OPM mismatch: calc=29.83%, reported=0.0% (sales=22099.0, op=6592.0)",calc_29.8_rep_0.0
+DQ-05,WARNING,profitandloss,219,AXISBANK,opm_percentage,"OPM mismatch: calc=30.58%, reported=1353.0% (sales=27183.0, op=8313.0)",calc_30.6_rep_1353.0
+DQ-05,WARNING,profitandloss,220,AXISBANK,opm_percentage,"OPM mismatch: calc=31.47%, reported=2307.0% (sales=30641.0, op=9644.0)",calc_31.5_rep_2307.0
+DQ-05,WARNING,profitandloss,221,AXISBANK,opm_percentage,"OPM mismatch: calc=31.36%, reported=3097.0% (sales=35479.0, op=11127.0)",calc_31.4_rep_3097.0
+DQ-05,WARNING,profitandloss,222,AXISBANK,opm_percentage,"OPM mismatch: calc=32.61%, reported=3466.0% (sales=40988.0, op=13367.0)",calc_32.6_rep_3466.0
+DQ-05,WARNING,profitandloss,223,AXISBANK,opm_percentage,"OPM mismatch: calc=53.45%, reported=-5715.0% (sales=44542.0, op=23808.0)",calc_53.5_rep_-5715.0
+DQ-05,WARNING,profitandloss,224,AXISBANK,opm_percentage,"OPM mismatch: calc=63.12%, reported=-10277.0% (sales=45780.0, op=28895.0)",calc_63.1_rep_-10277.0
+DQ-05,WARNING,profitandloss,225,AXISBANK,opm_percentage,"OPM mismatch: calc=49.39%, reported=-5447.0% (sales=54986.0, op=27155.0)",calc_49.4_rep_-5447.0
+DQ-05,WARNING,profitandloss,226,AXISBANK,opm_percentage,"OPM mismatch: calc=55.98%, reported=-9859.0% (sales=62635.0, op=35066.0)",calc_56.0_rep_-9859.0
+DQ-05,WARNING,profitandloss,227,AXISBANK,opm_percentage,"OPM mismatch: calc=50.12%, reported=-2510.0% (sales=63346.0, op=31749.0)",calc_50.1_rep_-2510.0
+DQ-05,WARNING,profitandloss,228,AXISBANK,opm_percentage,"OPM mismatch: calc=44.47%, reported=3170.0% (sales=67377.0, op=29962.0)",calc_44.5_rep_3170.0
+DQ-05,WARNING,profitandloss,229,AXISBANK,opm_percentage,"OPM mismatch: calc=34.16%, reported=13857.0% (sales=85164.0, op=29089.0)",calc_34.2_rep_13857.0
+DQ-05,WARNING,profitandloss,230,AXISBANK,opm_percentage,"OPM mismatch: calc=34.69%, reported=11952.0% (sales=109369.0, op=37943.0)",calc_34.7_rep_11952.0
+DQ-05,WARNING,profitandloss,231,AXISBANK,opm_percentage,"OPM mismatch: calc=36.94%, reported=9061.0% (sales=120659.0, op=44566.0)",calc_36.9_rep_9061.0
+DQ-05,WARNING,profitandloss,258,BAJFINANCE,opm_percentage,"OPM mismatch: calc=32.49%, reported=1367.0% (sales=5392.0, op=1752.0)",calc_32.5_rep_1367.0
+DQ-05,WARNING,profitandloss,259,BAJFINANCE,opm_percentage,"OPM mismatch: calc=32.25%, reported=1986.0% (sales=7299.0, op=2354.0)",calc_32.3_rep_1986.0
+DQ-05,WARNING,profitandloss,260,BAJFINANCE,opm_percentage,"OPM mismatch: calc=32.60%, reported=2867.0% (sales=9970.0, op=3250.0)",calc_32.6_rep_2867.0
+DQ-05,WARNING,profitandloss,261,BAJFINANCE,opm_percentage,"OPM mismatch: calc=32.28%, reported=3935.0% (sales=12746.0, op=4115.0)",calc_32.3_rep_3935.0
+DQ-05,WARNING,profitandloss,262,BAJFINANCE,opm_percentage,"OPM mismatch: calc=29.50%, reported=6310.0% (sales=18487.0, op=5454.0)",calc_29.5_rep_6310.0
+DQ-05,WARNING,profitandloss,263,BAJFINANCE,opm_percentage,"OPM mismatch: calc=34.73%, reported=7608.0% (sales=26374.0, op=9159.0)",calc_34.7_rep_7608.0
+DQ-05,WARNING,profitandloss,264,BAJFINANCE,opm_percentage,"OPM mismatch: calc=40.64%, reported=6314.0% (sales=26673.0, op=10839.0)",calc_40.6_rep_6314.0
+DQ-05,WARNING,profitandloss,265,BAJFINANCE,opm_percentage,"OPM mismatch: calc=37.55%, reported=9906.0% (sales=31641.0, op=11880.0)",calc_37.5_rep_9906.0
+DQ-05,WARNING,profitandloss,266,BAJFINANCE,opm_percentage,"OPM mismatch: calc=30.65%, reported=16018.0% (sales=41411.0, op=12693.0)",calc_30.7_rep_16018.0
+DQ-05,WARNING,profitandloss,267,BAJFINANCE,opm_percentage,"OPM mismatch: calc=29.29%, reported=19987.0% (sales=54972.0, op=16099.0)",calc_29.3_rep_19987.0
+DQ-05,WARNING,profitandloss,268,BAJFINANCE,opm_percentage,"OPM mismatch: calc=30.42%, reported=21417.0% (sales=62279.0, op=18943.0)",calc_30.4_rep_21417.0
+DQ-05,WARNING,profitandloss,269,BANKBARODA,opm_percentage,"OPM mismatch: calc=30.05%, reported=1006.0% (sales=36442.0, op=10950.0)",calc_30.0_rep_1006.0
+DQ-05,WARNING,profitandloss,270,BANKBARODA,opm_percentage,"OPM mismatch: calc=29.78%, reported=809.0% (sales=40463.0, op=12049.0)",calc_29.8_rep_809.0
+DQ-05,WARNING,profitandloss,271,BANKBARODA,opm_percentage,"OPM mismatch: calc=29.98%, reported=902.0% (sales=44915.0, op=13466.0)",calc_30.0_rep_902.0
+DQ-05,WARNING,profitandloss,272,BANKBARODA,opm_percentage,"OPM mismatch: calc=55.44%, reported=-11700.0% (sales=45799.0, op=25391.0)",calc_55.4_rep_-11700.0
+DQ-05,WARNING,profitandloss,273,BANKBARODA,opm_percentage,"OPM mismatch: calc=43.28%, reported=-4372.0% (sales=44473.0, op=19250.0)",calc_43.3_rep_-4372.0
+DQ-05,WARNING,profitandloss,274,BANKBARODA,opm_percentage,"OPM mismatch: calc=56.65%, reported=-9197.0% (sales=46056.0, op=26093.0)",calc_56.7_rep_-9197.0
+DQ-05,WARNING,profitandloss,275,BANKBARODA,opm_percentage,"OPM mismatch: calc=48.79%, reported=-5414.0% (sales=52906.0, op=25815.0)",calc_48.8_rep_-5414.0
+DQ-05,WARNING,profitandloss,276,BANKBARODA,opm_percentage,"OPM mismatch: calc=51.44%, reported=-11728.0% (sales=78895.0, op=40583.0)",calc_51.4_rep_-11728.0
+DQ-05,WARNING,profitandloss,277,BANKBARODA,opm_percentage,"OPM mismatch: calc=51.23%, reported=-6957.0% (sales=74314.0, op=38070.0)",calc_51.2_rep_-6957.0
+DQ-05,WARNING,profitandloss,278,BANKBARODA,opm_percentage,"OPM mismatch: calc=51.12%, reported=-2948.0% (sales=73385.0, op=37518.0)",calc_51.1_rep_-2948.0
+DQ-05,WARNING,profitandloss,279,BANKBARODA,opm_percentage,"OPM mismatch: calc=40.45%, reported=6329.0% (sales=94503.0, op=38231.0)",calc_40.5_rep_6329.0
+DQ-05,WARNING,profitandloss,280,BANKBARODA,opm_percentage,"OPM mismatch: calc=37.49%, reported=4102.0% (sales=118379.0, op=44379.0)",calc_37.5_rep_4102.0
+DQ-05,WARNING,profitandloss,281,BANKBARODA,opm_percentage,"OPM mismatch: calc=37.42%, reported=3526.0% (sales=124144.0, op=46459.0)",calc_37.4_rep_3526.0
+DQ-05,WARNING,profitandloss,360,CANBK,opm_percentage,"OPM mismatch: calc=21.18%, reported=655.0% (sales=34070.0, op=7217.0)",calc_21.2_rep_655.0
+DQ-05,WARNING,profitandloss,361,CANBK,opm_percentage,"OPM mismatch: calc=24.35%, reported=-672.0% (sales=39570.0, op=9636.0)",calc_24.4_rep_-672.0
+DQ-05,WARNING,profitandloss,362,CANBK,opm_percentage,"OPM mismatch: calc=23.51%, reported=-621.0% (sales=43813.0, op=10302.0)",calc_23.5_rep_-621.0
+DQ-05,WARNING,profitandloss,363,CANBK,opm_percentage,"OPM mismatch: calc=40.38%, reported=-8008.0% (sales=44039.0, op=17785.0)",calc_40.4_rep_-8008.0
+DQ-05,WARNING,profitandloss,364,CANBK,opm_percentage,"OPM mismatch: calc=37.85%, reported=-5775.0% (sales=41457.0, op=15691.0)",calc_37.8_rep_-5775.0
+DQ-05,WARNING,profitandloss,365,CANBK,opm_percentage,"OPM mismatch: calc=61.87%, reported=-13350.0% (sales=41345.0, op=25582.0)",calc_61.9_rep_-13350.0
+DQ-05,WARNING,profitandloss,366,CANBK,opm_percentage,"OPM mismatch: calc=56.73%, reported=-11590.0% (sales=47951.0, op=27202.0)",calc_56.7_rep_-11590.0
+DQ-05,WARNING,profitandloss,367,CANBK,opm_percentage,"OPM mismatch: calc=53.88%, reported=-12867.0% (sales=49759.0, op=26809.0)",calc_53.9_rep_-12867.0
+DQ-05,WARNING,profitandloss,368,CANBK,opm_percentage,"OPM mismatch: calc=61.83%, reported=-18367.0% (sales=70253.0, op=43437.0)",calc_61.8_rep_-18367.0
+DQ-05,WARNING,profitandloss,369,CANBK,opm_percentage,"OPM mismatch: calc=58.39%, reported=-13657.0% (sales=70614.0, op=41235.0)",calc_58.4_rep_-13657.0
+DQ-05,WARNING,profitandloss,370,CANBK,opm_percentage,"OPM mismatch: calc=49.80%, reported=-9877.0% (sales=85885.0, op=42772.0)",calc_49.8_rep_-9877.0
+DQ-05,WARNING,profitandloss,371,CANBK,opm_percentage,"OPM mismatch: calc=41.75%, reported=-7745.0% (sales=110519.0, op=46146.0)",calc_41.8_rep_-7745.0
+DQ-05,WARNING,profitandloss,372,CANBK,opm_percentage,"OPM mismatch: calc=40.23%, reported=-8985.0% (sales=119392.0, op=48026.0)",calc_40.2_rep_-8985.0
+DQ-05,WARNING,profitandloss,373,CHOLAFIN,opm_percentage,"OPM mismatch: calc=26.77%, reported=472.0% (sales=2570.0, op=688.0)",calc_26.8_rep_472.0
+DQ-05,WARNING,profitandloss,374,CHOLAFIN,opm_percentage,"OPM mismatch: calc=28.42%, reported=578.0% (sales=3279.0, op=932.0)",calc_28.4_rep_578.0
+DQ-05,WARNING,profitandloss,375,CHOLAFIN,opm_percentage,"OPM mismatch: calc=28.56%, reported=696.0% (sales=3715.0, op=1061.0)",calc_28.6_rep_696.0
+DQ-05,WARNING,profitandloss,376,CHOLAFIN,opm_percentage,"OPM mismatch: calc=30.04%, reported=899.0% (sales=4214.0, op=1266.0)",calc_30.0_rep_899.0
+DQ-05,WARNING,profitandloss,377,CHOLAFIN,opm_percentage,"OPM mismatch: calc=28.16%, reported=1143.0% (sales=4694.0, op=1322.0)",calc_28.2_rep_1143.0
+DQ-05,WARNING,profitandloss,378,CHOLAFIN,opm_percentage,"OPM mismatch: calc=26.10%, reported=1451.0% (sales=5559.0, op=1451.0)",calc_26.1_rep_1451.0
+DQ-05,WARNING,profitandloss,379,CHOLAFIN,opm_percentage,"OPM mismatch: calc=22.96%, reported=1888.0% (sales=7108.0, op=1632.0)",calc_23.0_rep_1888.0
+DQ-05,WARNING,profitandloss,380,CHOLAFIN,opm_percentage,"OPM mismatch: calc=27.79%, reported=1699.0% (sales=8712.0, op=2421.0)",calc_27.8_rep_1699.0
+DQ-05,WARNING,profitandloss,381,CHOLAFIN,opm_percentage,"OPM mismatch: calc=30.40%, reported=2094.0% (sales=9583.0, op=2913.0)",calc_30.4_rep_2094.0
+DQ-05,WARNING,profitandloss,382,CHOLAFIN,opm_percentage,"OPM mismatch: calc=28.83%, reported=2924.0% (sales=10148.0, op=2926.0)",calc_28.8_rep_2924.0
+DQ-05,WARNING,profitandloss,383,CHOLAFIN,opm_percentage,"OPM mismatch: calc=28.10%, reported=3515.0% (sales=12884.0, op=3621.0)",calc_28.1_rep_3515.0
+DQ-05,WARNING,profitandloss,384,CHOLAFIN,opm_percentage,"OPM mismatch: calc=28.10%, reported=4548.0% (sales=19163.0, op=5385.0)",calc_28.1_rep_4548.0
+DQ-05,WARNING,profitandloss,385,CHOLAFIN,opm_percentage,"OPM mismatch: calc=28.67%, reported=5175.0% (sales=22502.0, op=6452.0)",calc_28.7_rep_5175.0
+DQ-05,WARNING,profitandloss,386,CIPLA,opm_percentage,"OPM mismatch: calc=73.26%, reported=2214.0% (sales=8279.0, op=6065.0)",calc_73.3_rep_2214.0
+DQ-05,WARNING,profitandloss,387,CIPLA,opm_percentage,"OPM mismatch: calc=78.90%, reported=2147.0% (sales=10173.0, op=8026.0)",calc_78.9_rep_2147.0
+DQ-05,WARNING,profitandloss,388,CIPLA,opm_percentage,"OPM mismatch: calc=80.94%, reported=2163.0% (sales=11345.0, op=9183.0)",calc_80.9_rep_2163.0
+DQ-05,WARNING,profitandloss,389,CIPLA,opm_percentage,"OPM mismatch: calc=82.02%, reported=2480.0% (sales=13790.0, op=11310.0)",calc_82.0_rep_2480.0
+DQ-05,WARNING,profitandloss,390,CIPLA,opm_percentage,"OPM mismatch: calc=82.66%, reported=2496.0% (sales=14394.0, op=11898.0)",calc_82.7_rep_2496.0
+DQ-05,WARNING,profitandloss,391,CIPLA,opm_percentage,"OPM mismatch: calc=81.35%, reported=2826.0% (sales=15156.0, op=12329.0)",calc_81.3_rep_2826.0
+DQ-05,WARNING,profitandloss,392,CIPLA,opm_percentage,"OPM mismatch: calc=81.07%, reported=3097.0% (sales=16362.0, op=13265.0)",calc_81.1_rep_3097.0
+DQ-05,WARNING,profitandloss,393,CIPLA,opm_percentage,"OPM mismatch: calc=81.29%, reported=3206.0% (sales=17132.0, op=13926.0)",calc_81.3_rep_3206.0
+DQ-05,WARNING,profitandloss,394,CIPLA,opm_percentage,"OPM mismatch: calc=77.80%, reported=4252.0% (sales=19160.0, op=14907.0)",calc_77.8_rep_4252.0
+DQ-05,WARNING,profitandloss,395,CIPLA,opm_percentage,"OPM mismatch: calc=79.08%, reported=4553.0% (sales=21763.0, op=17211.0)",calc_79.1_rep_4553.0
+DQ-05,WARNING,profitandloss,396,CIPLA,opm_percentage,"OPM mismatch: calc=77.91%, reported=5027.0% (sales=22753.0, op=17726.0)",calc_77.9_rep_5027.0
+DQ-05,WARNING,profitandloss,397,CIPLA,opm_percentage,"OPM mismatch: calc=75.59%, reported=6291.0% (sales=25774.0, op=19483.0)",calc_75.6_rep_6291.0
+DQ-05,WARNING,profitandloss,398,CIPLA,opm_percentage,"OPM mismatch: calc=74.40%, reported=6906.0% (sales=26981.0, op=20075.0)",calc_74.4_rep_6906.0
+DQ-05,WARNING,profitandloss,399,COALINDIA,opm_percentage,"OPM mismatch: calc=73.52%, reported=18087.0% (sales=68303.0, op=50216.0)",calc_73.5_rep_18087.0
+DQ-05,WARNING,profitandloss,400,COALINDIA,opm_percentage,"OPM mismatch: calc=74.84%, reported=17766.0% (sales=70608.0, op=52842.0)",calc_74.8_rep_17766.0
+DQ-05,WARNING,profitandloss,401,COALINDIA,opm_percentage,"OPM mismatch: calc=76.60%, reported=17343.0% (sales=74120.0, op=56777.0)",calc_76.6_rep_17343.0
+DQ-05,WARNING,profitandloss,402,COALINDIA,opm_percentage,"OPM mismatch: calc=75.96%, reported=18714.0% (sales=77861.0, op=59147.0)",calc_76.0_rep_18714.0
+DQ-05,WARNING,profitandloss,403,COALINDIA,opm_percentage,"OPM mismatch: calc=84.07%, reported=12448.0% (sales=78164.0, op=65716.0)",calc_84.1_rep_12448.0
+DQ-05,WARNING,profitandloss,404,COALINDIA,opm_percentage,"OPM mismatch: calc=89.10%, reported=9288.0% (sales=85244.0, op=75956.0)",calc_89.1_rep_9288.0
+DQ-05,WARNING,profitandloss,405,COALINDIA,opm_percentage,"OPM mismatch: calc=74.89%, reported=25007.0% (sales=99586.0, op=74579.0)",calc_74.9_rep_25007.0
+DQ-05,WARNING,profitandloss,406,COALINDIA,opm_percentage,"OPM mismatch: calc=77.54%, reported=21581.0% (sales=96080.0, op=74500.0)",calc_77.5_rep_21581.0
+DQ-05,WARNING,profitandloss,407,COALINDIA,opm_percentage,"OPM mismatch: calc=79.31%, reported=18628.0% (sales=90026.0, op=71398.0)",calc_79.3_rep_18628.0
+DQ-05,WARNING,profitandloss,408,COALINDIA,opm_percentage,"OPM mismatch: calc=77.47%, reported=24721.0% (sales=109715.0, op=84995.0)",calc_77.5_rep_24721.0
+DQ-05,WARNING,profitandloss,409,COALINDIA,opm_percentage,"OPM mismatch: calc=68.01%, reported=44232.0% (sales=138252.0, op=94020.0)",calc_68.0_rep_44232.0
+DQ-05,WARNING,profitandloss,410,COALINDIA,opm_percentage,"OPM mismatch: calc=66.29%, reported=47971.0% (sales=142324.0, op=94352.0)",calc_66.3_rep_47971.0
+DQ-05,WARNING,profitandloss,411,COALINDIA,opm_percentage,"OPM mismatch: calc=66.78%, reported=46610.0% (sales=140328.0, op=93717.0)",calc_66.8_rep_46610.0
+DQ-05,WARNING,profitandloss,568,HDFCBANK,opm_percentage,"OPM mismatch: calc=35.22%, reported=3534.0% (sales=35861.0, op=12631.0)",calc_35.2_rep_3534.0
+DQ-05,WARNING,profitandloss,569,HDFCBANK,opm_percentage,"OPM mismatch: calc=31.74%, reported=5602.0% (sales=42555.0, op=13508.0)",calc_31.7_rep_5602.0
+DQ-05,WARNING,profitandloss,570,HDFCBANK,opm_percentage,"OPM mismatch: calc=31.90%, reported=7214.0% (sales=50666.0, op=16164.0)",calc_31.9_rep_7214.0
+DQ-05,WARNING,profitandloss,571,HDFCBANK,opm_percentage,"OPM mismatch: calc=31.75%, reported=9037.0% (sales=63162.0, op=20055.0)",calc_31.8_rep_9037.0
+DQ-05,WARNING,profitandloss,572,HDFCBANK,opm_percentage,"OPM mismatch: calc=32.56%, reported=11374.0% (sales=73271.0, op=23856.0)",calc_32.6_rep_11374.0
+DQ-05,WARNING,profitandloss,573,HDFCBANK,opm_percentage,"OPM mismatch: calc=34.63%, reported=13374.0% (sales=85288.0, op=29532.0)",calc_34.6_rep_13374.0
+DQ-05,WARNING,profitandloss,574,HDFCBANK,opm_percentage,"OPM mismatch: calc=33.15%, reported=16592.0% (sales=105161.0, op=34856.0)",calc_33.1_rep_16592.0
+DQ-05,WARNING,profitandloss,575,HDFCBANK,opm_percentage,"OPM mismatch: calc=37.20%, reported=14593.0% (sales=122189.0, op=45459.0)",calc_37.2_rep_14593.0
+DQ-05,WARNING,profitandloss,576,HDFCBANK,opm_percentage,"OPM mismatch: calc=40.81%, reported=16848.0% (sales=128552.0, op=52457.0)",calc_40.8_rep_16848.0
+DQ-05,WARNING,profitandloss,577,HDFCBANK,opm_percentage,"OPM mismatch: calc=41.61%, reported=20795.0% (sales=135936.0, op=56557.0)",calc_41.6_rep_20795.0
+DQ-05,WARNING,profitandloss,578,HDFCBANK,opm_percentage,"OPM mismatch: calc=36.92%, reported=29932.0% (sales=170754.0, op=63042.0)",calc_36.9_rep_29932.0
+DQ-05,WARNING,profitandloss,579,HDFCBANK,opm_percentage,"OPM mismatch: calc=61.41%, reported=-44685.0% (sales=283649.0, op=174196.0)",calc_61.4_rep_-44685.0
+DQ-05,WARNING,profitandloss,580,HDFCBANK,opm_percentage,"OPM mismatch: calc=62.61%, reported=-57587.0% (sales=329022.0, op=206009.0)",calc_62.6_rep_-57587.0
+DQ-05,WARNING,profitandloss,581,HDFCLIFE,opm_percentage,"OPM mismatch: calc=96.27%, reported=525.0% (sales=14060.0, op=13535.0)",calc_96.3_rep_525.0
+DQ-05,WARNING,profitandloss,582,HDFCLIFE,opm_percentage,"OPM mismatch: calc=96.48%, reported=605.0% (sales=17166.0, op=16561.0)",calc_96.5_rep_605.0
+DQ-05,WARNING,profitandloss,583,HDFCLIFE,opm_percentage,"OPM mismatch: calc=96.79%, reported=874.0% (sales=27215.0, op=26341.0)",calc_96.8_rep_874.0
+DQ-05,WARNING,profitandloss,584,HDFCLIFE,opm_percentage,"OPM mismatch: calc=94.74%, reported=953.0% (sales=18141.0, op=17187.0)",calc_94.7_rep_953.0
+DQ-05,WARNING,profitandloss,585,HDFCLIFE,opm_percentage,"OPM mismatch: calc=96.83%, reported=972.0% (sales=30647.0, op=29674.0)",calc_96.8_rep_972.0
+DQ-05,WARNING,profitandloss,586,HDFCLIFE,opm_percentage,"OPM mismatch: calc=96.67%, reported=1074.0% (sales=32260.0, op=31186.0)",calc_96.7_rep_1074.0
+DQ-05,WARNING,profitandloss,587,HDFCLIFE,opm_percentage,"OPM mismatch: calc=96.87%, reported=1215.0% (sales=38855.0, op=37640.0)",calc_96.9_rep_1215.0
+DQ-05,WARNING,profitandloss,588,HDFCLIFE,opm_percentage,"OPM mismatch: calc=96.12%, reported=1141.0% (sales=29380.0, op=28239.0)",calc_96.1_rep_1141.0
+DQ-05,WARNING,profitandloss,589,HDFCLIFE,opm_percentage,"OPM mismatch: calc=98.27%, reported=1235.0% (sales=71528.0, op=70294.0)",calc_98.3_rep_1235.0
+DQ-05,WARNING,profitandloss,590,HDFCLIFE,opm_percentage,"OPM mismatch: calc=98.84%, reported=778.0% (sales=67126.0, op=66348.0)",calc_98.8_rep_778.0
+DQ-05,WARNING,profitandloss,591,HDFCLIFE,opm_percentage,"OPM mismatch: calc=99.89%, reported=80.0% (sales=70207.0, op=70127.0)",calc_99.9_rep_80.0
+DQ-05,WARNING,profitandloss,592,HDFCLIFE,opm_percentage,"OPM mismatch: calc=99.48%, reported=531.0% (sales=101482.0, op=100951.0)",calc_99.5_rep_531.0
+DQ-05,WARNING,profitandloss,593,HDFCLIFE,opm_percentage,"OPM mismatch: calc=99.28%, reported=725.0% (sales=100772.0, op=100048.0)",calc_99.3_rep_725.0
+DQ-05,WARNING,profitandloss,594,HEROMOTOCO,opm_percentage,"OPM mismatch: calc=85.94%, reported=3553.0% (sales=25275.0, op=21722.0)",calc_85.9_rep_3553.0
+DQ-05,WARNING,profitandloss,595,HEROMOTOCO,opm_percentage,"OPM mismatch: calc=87.22%, reported=3520.0% (sales=27538.0, op=24018.0)",calc_87.2_rep_3520.0
+DQ-05,WARNING,profitandloss,596,HEROMOTOCO,opm_percentage,"OPM mismatch: calc=84.45%, reported=4424.0% (sales=28457.0, op=24033.0)",calc_84.5_rep_4424.0
+DQ-05,WARNING,profitandloss,597,HEROMOTOCO,opm_percentage,"OPM mismatch: calc=83.97%, reported=4585.0% (sales=28610.0, op=24025.0)",calc_84.0_rep_4585.0
+DQ-05,WARNING,profitandloss,598,HEROMOTOCO,opm_percentage,"OPM mismatch: calc=83.57%, reported=5334.0% (sales=32458.0, op=27124.0)",calc_83.6_rep_5334.0
+DQ-05,WARNING,profitandloss,599,HEROMOTOCO,opm_percentage,"OPM mismatch: calc=85.21%, reported=5025.0% (sales=33971.0, op=28946.0)",calc_85.2_rep_5025.0
+DQ-05,WARNING,profitandloss,600,HEROMOTOCO,opm_percentage,"OPM mismatch: calc=86.09%, reported=4070.0% (sales=29254.0, op=25184.0)",calc_86.1_rep_4070.0
+DQ-05,WARNING,profitandloss,601,HEROMOTOCO,opm_percentage,"OPM mismatch: calc=86.90%, reported=4058.0% (sales=30959.0, op=26902.0)",calc_86.9_rep_4058.0
+DQ-05,WARNING,profitandloss,602,HEROMOTOCO,opm_percentage,"OPM mismatch: calc=88.98%, reported=3256.0% (sales=29551.0, op=26295.0)",calc_89.0_rep_3256.0
+DQ-05,WARNING,profitandloss,603,HEROMOTOCO,opm_percentage,"OPM mismatch: calc=88.00%, reported=4099.0% (sales=34158.0, op=30060.0)",calc_88.0_rep_4099.0
+DQ-05,WARNING,profitandloss,604,HEROMOTOCO,opm_percentage,"OPM mismatch: calc=86.15%, reported=5235.0% (sales=37789.0, op=32554.0)",calc_86.1_rep_5235.0
+DQ-05,WARNING,profitandloss,605,HEROMOTOCO,opm_percentage,"OPM mismatch: calc=86.13%, reported=5561.0% (sales=40098.0, op=34537.0)",calc_86.1_rep_5561.0
+DQ-05,WARNING,profitandloss,606,HINDALCO,opm_percentage,"OPM mismatch: calc=90.40%, reported=7699.0% (sales=80193.0, op=72494.0)",calc_90.4_rep_7699.0
+DQ-05,WARNING,profitandloss,607,HINDALCO,opm_percentage,"OPM mismatch: calc=90.85%, reported=8024.0% (sales=87695.0, op=79671.0)",calc_90.9_rep_8024.0
+DQ-05,WARNING,profitandloss,608,HINDALCO,opm_percentage,"OPM mismatch: calc=91.52%, reported=8844.0% (sales=104281.0, op=95437.0)",calc_91.5_rep_8844.0
+DQ-05,WARNING,profitandloss,609,HINDALCO,opm_percentage,"OPM mismatch: calc=92.12%, reported=7778.0% (sales=98759.0, op=90981.0)",calc_92.1_rep_7778.0
+DQ-05,WARNING,profitandloss,610,HINDALCO,opm_percentage,"OPM mismatch: calc=87.71%, reported=12317.0% (sales=100184.0, op=87867.0)",calc_87.7_rep_12317.0
+DQ-05,WARNING,profitandloss,611,HINDALCO,opm_percentage,"OPM mismatch: calc=88.11%, reported=13695.0% (sales=115183.0, op=101488.0)",calc_88.1_rep_13695.0
+DQ-05,WARNING,profitandloss,612,HINDALCO,opm_percentage,"OPM mismatch: calc=88.12%, reported=15511.0% (sales=130542.0, op=115031.0)",calc_88.1_rep_15511.0
+DQ-05,WARNING,profitandloss,613,HINDALCO,opm_percentage,"OPM mismatch: calc=87.89%, reported=14306.0% (sales=118144.0, op=103838.0)",calc_87.9_rep_14306.0
+DQ-05,WARNING,profitandloss,614,HINDALCO,opm_percentage,"OPM mismatch: calc=86.70%, reported=17559.0% (sales=132008.0, op=114449.0)",calc_86.7_rep_17559.0
+DQ-05,WARNING,profitandloss,615,HINDALCO,opm_percentage,"OPM mismatch: calc=85.47%, reported=28347.0% (sales=195059.0, op=166712.0)",calc_85.5_rep_28347.0
+DQ-05,WARNING,profitandloss,616,HINDALCO,opm_percentage,"OPM mismatch: calc=89.85%, reported=22666.0% (sales=223202.0, op=200536.0)",calc_89.8_rep_22666.0
+DQ-05,WARNING,profitandloss,617,HINDALCO,opm_percentage,"OPM mismatch: calc=88.95%, reported=23872.0% (sales=215962.0, op=192090.0)",calc_88.9_rep_23872.0
+DQ-05,WARNING,profitandloss,618,HINDALCO,opm_percentage,"OPM mismatch: calc=87.53%, reported=27931.0% (sales=224018.0, op=196087.0)",calc_87.5_rep_27931.0
+DQ-05,WARNING,profitandloss,619,HINDUNILVR,opm_percentage,"OPM mismatch: calc=84.37%, reported=4220.0% (sales=27004.0, op=22784.0)",calc_84.4_rep_4220.0
+DQ-05,WARNING,profitandloss,620,HINDUNILVR,opm_percentage,"OPM mismatch: calc=83.72%, reported=4759.0% (sales=29234.0, op=24475.0)",calc_83.7_rep_4759.0
+DQ-05,WARNING,profitandloss,621,HINDUNILVR,opm_percentage,"OPM mismatch: calc=83.07%, reported=5412.0% (sales=31972.0, op=26560.0)",calc_83.1_rep_5412.0
+DQ-05,WARNING,profitandloss,622,HINDUNILVR,opm_percentage,"OPM mismatch: calc=81.64%, reported=5910.0% (sales=32186.0, op=26276.0)",calc_81.6_rep_5910.0
+DQ-05,WARNING,profitandloss,623,HINDUNILVR,opm_percentage,"OPM mismatch: calc=80.92%, reported=6328.0% (sales=33162.0, op=26834.0)",calc_80.9_rep_6328.0
+DQ-05,WARNING,profitandloss,624,HINDUNILVR,opm_percentage,"OPM mismatch: calc=78.90%, reported=7499.0% (sales=35545.0, op=28046.0)",calc_78.9_rep_7499.0
+DQ-05,WARNING,profitandloss,625,HINDUNILVR,opm_percentage,"OPM mismatch: calc=77.41%, reported=8880.0% (sales=39310.0, op=30430.0)",calc_77.4_rep_8880.0
+DQ-05,WARNING,profitandloss,626,HINDUNILVR,opm_percentage,"OPM mismatch: calc=75.21%, reported=9861.0% (sales=39783.0, op=29922.0)",calc_75.2_rep_9861.0
+DQ-05,WARNING,profitandloss,627,HINDUNILVR,opm_percentage,"OPM mismatch: calc=75.28%, reported=11626.0% (sales=47028.0, op=35402.0)",calc_75.3_rep_11626.0
+DQ-05,WARNING,profitandloss,628,HINDUNILVR,opm_percentage,"OPM mismatch: calc=75.49%, reported=12857.0% (sales=52446.0, op=39589.0)",calc_75.5_rep_12857.0
+DQ-05,WARNING,profitandloss,629,HINDUNILVR,opm_percentage,"OPM mismatch: calc=76.65%, reported=14147.0% (sales=60580.0, op=46433.0)",calc_76.6_rep_14147.0
+DQ-05,WARNING,profitandloss,630,HINDUNILVR,opm_percentage,"OPM mismatch: calc=76.32%, reported=14659.0% (sales=61896.0, op=47237.0)",calc_76.3_rep_14659.0
+DQ-05,WARNING,profitandloss,631,HINDUNILVR,opm_percentage,"OPM mismatch: calc=76.45%, reported=14759.0% (sales=62661.0, op=47902.0)",calc_76.4_rep_14759.0
+DQ-05,WARNING,profitandloss,632,ICICIBANK,opm_percentage,"OPM mismatch: calc=70.59%, reported=-15085.0% (sales=44885.0, op=31684.0)",calc_70.6_rep_-15085.0
+DQ-05,WARNING,profitandloss,633,ICICIBANK,opm_percentage,"OPM mismatch: calc=66.40%, reported=-13084.0% (sales=49479.0, op=32852.0)",calc_66.4_rep_-13084.0
+DQ-05,WARNING,profitandloss,634,ICICIBANK,opm_percentage,"OPM mismatch: calc=70.53%, reported=-16120.0% (sales=54964.0, op=38766.0)",calc_70.5_rep_-16120.0
+DQ-05,WARNING,profitandloss,635,ICICIBANK,opm_percentage,"OPM mismatch: calc=88.12%, reported=-26955.0% (sales=59294.0, op=52252.0)",calc_88.1_rep_-26955.0
+DQ-05,WARNING,profitandloss,636,ICICIBANK,opm_percentage,"OPM mismatch: calc=104.76%, reported=-37737.0% (sales=60940.0, op=63841.0)",calc_104.8_rep_-37737.0
+DQ-05,WARNING,profitandloss,637,ICICIBANK,opm_percentage,"OPM mismatch: calc=117.12%, reported=-44906.0% (sales=62162.0, op=72806.0)",calc_117.1_rep_-44906.0
+DQ-05,WARNING,profitandloss,638,ICICIBANK,opm_percentage,"OPM mismatch: calc=116.38%, reported=-50971.0% (sales=71982.0, op=83775.0)",calc_116.4_rep_-50971.0
+DQ-05,WARNING,profitandloss,639,ICICIBANK,opm_percentage,"OPM mismatch: calc=100.62%, reported=-45190.0% (sales=84836.0, op=85361.0)",calc_100.6_rep_-45190.0
+DQ-05,WARNING,profitandloss,640,ICICIBANK,opm_percentage,"OPM mismatch: calc=102.41%, reported=-44805.0% (sales=89163.0, op=91309.0)",calc_102.4_rep_-44805.0
+DQ-05,WARNING,profitandloss,641,ICICIBANK,opm_percentage,"OPM mismatch: calc=84.69%, reported=-26558.0% (sales=95407.0, op=80798.0)",calc_84.7_rep_-26558.0
+DQ-05,WARNING,profitandloss,642,ICICIBANK,opm_percentage,"OPM mismatch: calc=72.57%, reported=-17341.0% (sales=121067.0, op=87864.0)",calc_72.6_rep_-17341.0
+DQ-05,WARNING,profitandloss,643,ICICIBANK,opm_percentage,"OPM mismatch: calc=62.41%, reported=-14152.0% (sales=159516.0, op=99560.0)",calc_62.4_rep_-14152.0
+DQ-05,WARNING,profitandloss,644,ICICIBANK,opm_percentage,"OPM mismatch: calc=69.63%, reported=-31575.0% (sales=180551.0, op=125722.0)",calc_69.6_rep_-31575.0
+DQ-05,WARNING,profitandloss,645,ICICIGI,opm_percentage,"OPM mismatch: calc=104.46%, reported=-178.0% (sales=4012.0, op=4191.0)",calc_104.5_rep_-178.0
+DQ-05,WARNING,profitandloss,646,ICICIGI,opm_percentage,"OPM mismatch: calc=105.19%, reported=-225.0% (sales=4352.0, op=4578.0)",calc_105.2_rep_-225.0
+DQ-05,WARNING,profitandloss,647,ICICIGI,opm_percentage,"OPM mismatch: calc=105.24%, reported=-221.0% (sales=4234.0, op=4456.0)",calc_105.2_rep_-221.0
+DQ-05,WARNING,profitandloss,648,ICICIGI,opm_percentage,"OPM mismatch: calc=87.34%, reported=764.0% (sales=6033.0, op=5269.0)",calc_87.3_rep_764.0
+DQ-05,WARNING,profitandloss,649,ICICIGI,opm_percentage,"OPM mismatch: calc=87.78%, reported=919.0% (sales=7520.0, op=6601.0)",calc_87.8_rep_919.0
+DQ-05,WARNING,profitandloss,650,ICICIGI,opm_percentage,"OPM mismatch: calc=103.79%, reported=-262.0% (sales=6912.0, op=7174.0)",calc_103.8_rep_-262.0
+DQ-05,WARNING,profitandloss,651,ICICIGI,opm_percentage,"OPM mismatch: calc=85.05%, reported=1669.0% (sales=11163.0, op=9494.0)",calc_85.0_rep_1669.0
+DQ-05,WARNING,profitandloss,652,ICICIGI,opm_percentage,"OPM mismatch: calc=84.61%, reported=1772.0% (sales=11517.0, op=9745.0)",calc_84.6_rep_1772.0
+DQ-05,WARNING,profitandloss,653,ICICIGI,opm_percentage,"OPM mismatch: calc=82.97%, reported=2072.0% (sales=12161.0, op=10090.0)",calc_83.0_rep_2072.0
+DQ-05,WARNING,profitandloss,654,ICICIGI,opm_percentage,"OPM mismatch: calc=93.66%, reported=1016.0% (sales=16026.0, op=15010.0)",calc_93.7_rep_1016.0
+DQ-05,WARNING,profitandloss,655,ICICIGI,opm_percentage,"OPM mismatch: calc=92.93%, reported=1264.0% (sales=17876.0, op=16612.0)",calc_92.9_rep_1264.0
+DQ-05,WARNING,profitandloss,656,ICICIGI,opm_percentage,"OPM mismatch: calc=87.42%, reported=2577.0% (sales=20487.0, op=17910.0)",calc_87.4_rep_2577.0
+DQ-05,WARNING,profitandloss,657,ICICIGI,opm_percentage,"OPM mismatch: calc=85.57%, reported=3363.0% (sales=23301.0, op=19938.0)",calc_85.6_rep_3363.0
+DQ-05,WARNING,profitandloss,658,ICICIPRULI,opm_percentage,"OPM mismatch: calc=96.28%, reported=745.0% (sales=20025.0, op=19280.0)",calc_96.3_rep_745.0
+DQ-05,WARNING,profitandloss,659,ICICIPRULI,opm_percentage,"OPM mismatch: calc=93.13%, reported=1504.0% (sales=21888.0, op=20384.0)",calc_93.1_rep_1504.0
+DQ-05,WARNING,profitandloss,660,ICICIPRULI,opm_percentage,"OPM mismatch: calc=95.20%, reported=1655.0% (sales=34453.0, op=32798.0)",calc_95.2_rep_1655.0
+DQ-05,WARNING,profitandloss,661,ICICIPRULI,opm_percentage,"OPM mismatch: calc=91.17%, reported=1842.0% (sales=20849.0, op=19008.0)",calc_91.2_rep_1842.0
+DQ-05,WARNING,profitandloss,662,ICICIPRULI,opm_percentage,"OPM mismatch: calc=95.22%, reported=1806.0% (sales=37816.0, op=36010.0)",calc_95.2_rep_1806.0
+DQ-05,WARNING,profitandloss,663,ICICIPRULI,opm_percentage,"OPM mismatch: calc=95.44%, reported=1771.0% (sales=38832.0, op=37062.0)",calc_95.4_rep_1771.0
+DQ-05,WARNING,profitandloss,664,ICICIPRULI,opm_percentage,"OPM mismatch: calc=98.70%, reported=541.0% (sales=41463.0, op=40922.0)",calc_98.7_rep_541.0
+DQ-05,WARNING,profitandloss,665,ICICIPRULI,opm_percentage,"OPM mismatch: calc=101.52%, reported=-319.0% (sales=21025.0, op=21344.0)",calc_101.5_rep_-319.0
+DQ-05,WARNING,profitandloss,666,ICICIPRULI,opm_percentage,"OPM mismatch: calc=100.47%, reported=-390.0% (sales=83182.0, op=83572.0)",calc_100.5_rep_-390.0
+DQ-05,WARNING,profitandloss,667,ICICIPRULI,opm_percentage,"OPM mismatch: calc=103.40%, reported=-2163.0% (sales=63564.0, op=65728.0)",calc_103.4_rep_-2163.0
+DQ-05,WARNING,profitandloss,668,ICICIPRULI,opm_percentage,"OPM mismatch: calc=103.48%, reported=-1757.0% (sales=50478.0, op=52235.0)",calc_103.5_rep_-1757.0
+DQ-05,WARNING,profitandloss,669,ICICIPRULI,opm_percentage,"OPM mismatch: calc=102.03%, reported=-1829.0% (sales=90307.0, op=92136.0)",calc_102.0_rep_-1829.0
+DQ-05,WARNING,profitandloss,670,ICICIPRULI,opm_percentage,"OPM mismatch: calc=99.59%, reported=321.0% (sales=77572.0, op=77251.0)",calc_99.6_rep_321.0
+DQ-05,WARNING,profitandloss,697,INDUSINDBK,opm_percentage,"OPM mismatch: calc=27.88%, reported=286.0% (sales=6983.0, op=1947.0)",calc_27.9_rep_286.0
+DQ-05,WARNING,profitandloss,698,INDUSINDBK,opm_percentage,"OPM mismatch: calc=30.95%, reported=335.0% (sales=8254.0, op=2555.0)",calc_31.0_rep_335.0
+DQ-05,WARNING,profitandloss,699,INDUSINDBK,opm_percentage,"OPM mismatch: calc=32.33%, reported=288.0% (sales=9692.0, op=3133.0)",calc_32.3_rep_288.0
+DQ-05,WARNING,profitandloss,700,INDUSINDBK,opm_percentage,"OPM mismatch: calc=35.28%, reported=329.0% (sales=11872.0, op=4188.0)",calc_35.3_rep_329.0
+DQ-05,WARNING,profitandloss,701,INDUSINDBK,opm_percentage,"OPM mismatch: calc=39.46%, reported=379.0% (sales=14406.0, op=5684.0)",calc_39.5_rep_379.0
+DQ-05,WARNING,profitandloss,702,INDUSINDBK,opm_percentage,"OPM mismatch: calc=37.93%, reported=942.0% (sales=17281.0, op=6555.0)",calc_37.9_rep_942.0
+DQ-05,WARNING,profitandloss,703,INDUSINDBK,opm_percentage,"OPM mismatch: calc=41.70%, reported=-437.0% (sales=22261.0, op=9283.0)",calc_41.7_rep_-437.0
+DQ-05,WARNING,profitandloss,704,INDUSINDBK,opm_percentage,"OPM mismatch: calc=43.81%, reported=-553.0% (sales=28783.0, op=12611.0)",calc_43.8_rep_-553.0
+DQ-05,WARNING,profitandloss,705,INDUSINDBK,opm_percentage,"OPM mismatch: calc=55.16%, reported=-2469.0% (sales=29000.0, op=15997.0)",calc_55.2_rep_-2469.0
+DQ-05,WARNING,profitandloss,706,INDUSINDBK,opm_percentage,"OPM mismatch: calc=51.39%, reported=-839.0% (sales=30822.0, op=15840.0)",calc_51.4_rep_-839.0
+DQ-05,WARNING,profitandloss,707,INDUSINDBK,opm_percentage,"OPM mismatch: calc=42.69%, reported=2067.0% (sales=36368.0, op=15525.0)",calc_42.7_rep_2067.0
+DQ-05,WARNING,profitandloss,708,INDUSINDBK,opm_percentage,"OPM mismatch: calc=38.55%, reported=2978.0% (sales=45748.0, op=17638.0)",calc_38.6_rep_2978.0
+DQ-05,WARNING,profitandloss,709,INDUSINDBK,opm_percentage,"OPM mismatch: calc=41.03%, reported=1323.0% (sales=49004.0, op=20104.0)",calc_41.0_rep_1323.0
+DQ-05,WARNING,profitandloss,815,KOTAKBANK,opm_percentage,"OPM mismatch: calc=60.92%, reported=-1789.0% (sales=10838.0, op=6603.0)",calc_60.9_rep_-1789.0
+DQ-05,WARNING,profitandloss,816,KOTAKBANK,opm_percentage,"OPM mismatch: calc=58.84%, reported=-1379.0% (sales=11986.0, op=7053.0)",calc_58.8_rep_-1379.0
+DQ-05,WARNING,profitandloss,817,KOTAKBANK,opm_percentage,"OPM mismatch: calc=72.96%, reported=-3366.0% (sales=13319.0, op=9718.0)",calc_73.0_rep_-3366.0
+DQ-05,WARNING,profitandloss,818,KOTAKBANK,opm_percentage,"OPM mismatch: calc=56.57%, reported=-2263.0% (sales=20402.0, op=11541.0)",calc_56.6_rep_-2263.0
+DQ-05,WARNING,profitandloss,819,KOTAKBANK,opm_percentage,"OPM mismatch: calc=66.44%, reported=-3965.0% (sales=22324.0, op=14832.0)",calc_66.4_rep_-3965.0
+DQ-05,WARNING,profitandloss,820,KOTAKBANK,opm_percentage,"OPM mismatch: calc=66.87%, reported=-4141.0% (sales=25131.0, op=16805.0)",calc_66.9_rep_-4141.0
+DQ-05,WARNING,profitandloss,821,KOTAKBANK,opm_percentage,"OPM mismatch: calc=66.23%, reported=-5114.0% (sales=29831.0, op=19758.0)",calc_66.2_rep_-5114.0
+DQ-05,WARNING,profitandloss,822,KOTAKBANK,opm_percentage,"OPM mismatch: calc=67.45%, reported=-5005.0% (sales=33474.0, op=22578.0)",calc_67.4_rep_-5005.0
+DQ-05,WARNING,profitandloss,823,KOTAKBANK,opm_percentage,"OPM mismatch: calc=90.83%, reported=-9958.0% (sales=32820.0, op=29812.0)",calc_90.8_rep_-9958.0
+DQ-05,WARNING,profitandloss,824,KOTAKBANK,opm_percentage,"OPM mismatch: calc=90.98%, reported=-8512.0% (sales=33741.0, op=30699.0)",calc_91.0_rep_-8512.0
+DQ-05,WARNING,profitandloss,825,KOTAKBANK,opm_percentage,"OPM mismatch: calc=79.44%, reported=-5746.0% (sales=42151.0, op=33485.0)",calc_79.4_rep_-5746.0
+DQ-05,WARNING,profitandloss,826,KOTAKBANK,opm_percentage,"OPM mismatch: calc=83.67%, reported=-13382.0% (sales=56237.0, op=47052.0)",calc_83.7_rep_-13382.0
+DQ-05,WARNING,profitandloss,827,KOTAKBANK,opm_percentage,"OPM mismatch: calc=79.42%, reported=-14146.0% (sales=64053.0, op=50872.0)",calc_79.4_rep_-14146.0
+DQ-05,WARNING,profitandloss,1362,INDIGO,opm_percentage,"OPM mismatch: calc=90.71%, reported=855.0% (sales=9203.0, op=8348.0)",calc_90.7_rep_855.0
+DQ-05,WARNING,profitandloss,1363,INDIGO,opm_percentage,"OPM mismatch: calc=96.11%, reported=433.0% (sales=11117.0, op=10684.0)",calc_96.1_rep_433.0
+DQ-05,WARNING,profitandloss,1364,INDIGO,opm_percentage,"OPM mismatch: calc=86.33%, reported=1904.0% (sales=13925.0, op=12022.0)",calc_86.3_rep_1904.0
+DQ-05,WARNING,profitandloss,1365,INDIGO,opm_percentage,"OPM mismatch: calc=80.40%, reported=3164.0% (sales=16140.0, op=12976.0)",calc_80.4_rep_3164.0
+DQ-05,WARNING,profitandloss,1366,INDIGO,opm_percentage,"OPM mismatch: calc=88.06%, reported=2219.0% (sales=18580.0, op=16362.0)",calc_88.1_rep_2219.0
+DQ-05,WARNING,profitandloss,1367,INDIGO,opm_percentage,"OPM mismatch: calc=86.84%, reported=3030.0% (sales=23021.0, op=19991.0)",calc_86.8_rep_3030.0
+DQ-05,WARNING,profitandloss,1368,INDIGO,opm_percentage,"OPM mismatch: calc=100.53%, reported=-151.0% (sales=28497.0, op=28648.0)",calc_100.5_rep_-151.0
+DQ-05,WARNING,profitandloss,1369,INDIGO,opm_percentage,"OPM mismatch: calc=88.62%, reported=4069.0% (sales=35756.0, op=31687.0)",calc_88.6_rep_4069.0
+DQ-05,WARNING,profitandloss,1370,INDIGO,opm_percentage,"OPM mismatch: calc=99.98%, reported=2.0% (sales=14641.0, op=14638.0)",calc_100.0_rep_2.0
+DQ-05,WARNING,profitandloss,1371,INDIGO,opm_percentage,"OPM mismatch: calc=97.85%, reported=558.0% (sales=25931.0, op=25373.0)",calc_97.8_rep_558.0
+DQ-05,WARNING,profitandloss,1372,INDIGO,opm_percentage,"OPM mismatch: calc=88.02%, reported=6521.0% (sales=54446.0, op=47926.0)",calc_88.0_rep_6521.0
+DQ-05,WARNING,profitandloss,1373,INDIGO,opm_percentage,"OPM mismatch: calc=76.30%, reported=16331.0% (sales=68904.0, op=52573.0)",calc_76.3_rep_16331.0
+DQ-05,WARNING,profitandloss,1374,INDIGO,opm_percentage,"OPM mismatch: calc=79.20%, reported=15908.0% (sales=76476.0, op=60568.0)",calc_79.2_rep_15908.0
+DQ-06,WARNING,profitandloss,86,ADANIENSOL,sales,Non-positive sales reported: 0.0 in year Mar 2014,0.0
+DQ-07,WARNING,cashflow,1167,TVSMOTOR,net_cash_flow,"Net cash flow mismatch: sum=-128.0, reported=532.0",diff_660.0
+DQ-08,WARNING,profitandloss,99,ADANIENT,tax_percentage,Abnormal tax percentage: -64.0% with PBT=1614.0,-64.0
+DQ-08,WARNING,profitandloss,149,ADANIPOWER,tax_percentage,Abnormal tax percentage: -47.0% with PBT=375.0,-47.0
+DQ-08,WARNING,profitandloss,156,ADANIPOWER,tax_percentage,Abnormal tax percentage: -40.0% with PBT=7675.0,-40.0
+DQ-08,WARNING,profitandloss,165,AMBUJACEM,tax_percentage,Abnormal tax percentage: -2.0% with PBT=2919.0,-2.0
+DQ-08,WARNING,profitandloss,224,AXISBANK,tax_percentage,Abnormal tax percentage: -99.0% with PBT=122.0,-99.0
+DQ-08,WARNING,profitandloss,226,AXISBANK,tax_percentage,Abnormal tax percentage: 67.0% with PBT=4904.0,67.0
+DQ-08,WARNING,profitandloss,277,BANKBARODA,tax_percentage,Abnormal tax percentage: 77.0% with PBT=6373.0,77.0
+DQ-08,WARNING,profitandloss,319,BHEL,tax_percentage,Abnormal tax percentage: -16.0% with PBT=243.0,-16.0
+DQ-08,WARNING,profitandloss,439,DLF,tax_percentage,Abnormal tax percentage: -16.0% with PBT=500.0,-16.0
+DQ-08,WARNING,profitandloss,445,DLF,tax_percentage,Abnormal tax percentage: 99.0% with PBT=653.0,99.0
+DQ-08,WARNING,profitandloss,471,DRREDDY,tax_percentage,Abnormal tax percentage: -7.0% with PBT=1886.0,-7.0
+DQ-08,WARNING,profitandloss,509,GODREJCP,tax_percentage,Abnormal tax percentage: -12.0% with PBT=2085.0,-12.0
+DQ-08,WARNING,profitandloss,514,GODREJCP,tax_percentage,Abnormal tax percentage: 99.0% with PBT=198.0,99.0
+DQ-08,WARNING,profitandloss,523,GRASIM,tax_percentage,Abnormal tax percentage: -1.0% with PBT=6554.0,-1.0
+DQ-08,WARNING,profitandloss,592,HDFCLIFE,tax_percentage,Abnormal tax percentage: -61.0% with PBT=977.0,-61.0
+DQ-08,WARNING,profitandloss,608,HINDALCO,tax_percentage,Abnormal tax percentage: 75.0% with PBT=340.0,75.0
+DQ-08,WARNING,profitandloss,794,JSWENERGY,tax_percentage,Abnormal tax percentage: 75.0% with PBT=338.0,75.0
+DQ-08,WARNING,profitandloss,803,JSWSTEEL,tax_percentage,Abnormal tax percentage: 70.0% with PBT=1308.0,70.0
+DQ-08,WARNING,profitandloss,809,JSWSTEEL,tax_percentage,Abnormal tax percentage: -30.0% with PBT=3013.0,-30.0
+DQ-08,WARNING,profitandloss,828,LICI,tax_percentage,Abnormal tax percentage: 68.0% with PBT=8199.0,68.0
+DQ-08,WARNING,profitandloss,829,LICI,tax_percentage,Abnormal tax percentage: 80.0% with PBT=13544.0,80.0
+DQ-08,WARNING,profitandloss,830,LICI,tax_percentage,Abnormal tax percentage: 76.0% with PBT=12151.0,76.0
+DQ-08,WARNING,profitandloss,831,LICI,tax_percentage,Abnormal tax percentage: 66.0% with PBT=12138.0,66.0
+DQ-08,WARNING,profitandloss,843,LODHA,tax_percentage,Abnormal tax percentage: -44.0% with PBT=33.0,-44.0
+DQ-08,WARNING,profitandloss,845,LODHA,tax_percentage,Abnormal tax percentage: -8.0% with PBT=452.0,-8.0
+DQ-08,WARNING,profitandloss,881,M&M,tax_percentage,Abnormal tax percentage: 99.0% with PBT=1655.0,99.0
+DQ-08,WARNING,profitandloss,907,MOTHERSON,tax_percentage,Abnormal tax percentage: -5.0% with PBT=1983.0,-5.0
+DQ-08,WARNING,profitandloss,915,NAUKRI,tax_percentage,Abnormal tax percentage: 99.0% with PBT=60.0,99.0
+DQ-08,WARNING,profitandloss,917,NAUKRI,tax_percentage,Abnormal tax percentage: 99.0% with PBT=5.0,99.0
+DQ-08,WARNING,profitandloss,923,NAUKRI,tax_percentage,Abnormal tax percentage: 99.0% with PBT=141.0,99.0
+DQ-08,WARNING,profitandloss,946,NHPC,tax_percentage,Abnormal tax percentage: -2.0% with PBT=3266.0,-2.0
+DQ-08,WARNING,profitandloss,948,NHPC,tax_percentage,Abnormal tax percentage: -17.0% with PBT=3217.0,-17.0
+DQ-08,WARNING,profitandloss,955,NTPC,tax_percentage,Abnormal tax percentage: -2.0% with PBT=10618.0,-2.0
+DQ-08,WARNING,profitandloss,958,NTPC,tax_percentage,Abnormal tax percentage: -25.0% with PBT=11255.0,-25.0
+DQ-08,WARNING,profitandloss,1023,POWERGRID,tax_percentage,Abnormal tax percentage: -10.0% with PBT=9147.0,-10.0
+DQ-08,WARNING,profitandloss,1073,SBIN,tax_percentage,Abnormal tax percentage: 99.0% with PBT=945.0,99.0
+DQ-08,WARNING,profitandloss,1084,SHREECEM,tax_percentage,Abnormal tax percentage: -6.0% with PBT=401.0,-6.0
+DQ-08,WARNING,profitandloss,1136,TATACONSUM,tax_percentage,Abnormal tax percentage: 99.0% with PBT=170.0,99.0
+DQ-08,WARNING,profitandloss,1157,TATAMOTORS,tax_percentage,Abnormal tax percentage: -14.0% with PBT=27955.0,-14.0
+DQ-08,WARNING,profitandloss,1159,TATAPOWER,tax_percentage,Abnormal tax percentage: 92.0% with PBT=1277.0,92.0
+DQ-08,WARNING,profitandloss,1160,TATAPOWER,tax_percentage,Abnormal tax percentage: 99.0% with PBT=975.0,99.0
+DQ-08,WARNING,profitandloss,1161,TATAPOWER,tax_percentage,Abnormal tax percentage: 72.0% with PBT=1484.0,72.0
+DQ-08,WARNING,profitandloss,1175,TATASTEEL,tax_percentage,Abnormal tax percentage: 99.0% with PBT=193.0,99.0
+DQ-08,WARNING,profitandloss,1238,TRENT,tax_percentage,Abnormal tax percentage: 99.0% with PBT=1.0,99.0
+DQ-08,WARNING,profitandloss,1246,TRENT,tax_percentage,Abnormal tax percentage: 69.0% with PBT=111.0,69.0
+DQ-08,WARNING,profitandloss,1270,ULTRACEMCO,tax_percentage,Abnormal tax percentage: -11.0% with PBT=5183.0,-11.0
+DQ-08,WARNING,profitandloss,1280,UNIONBANK,tax_percentage,Abnormal tax percentage: -58.0% with PBT=359.0,-58.0
+DQ-08,WARNING,profitandloss,1284,UNIONBANK,tax_percentage,Abnormal tax percentage: -22.0% with PBT=2327.0,-22.0
+DQ-08,WARNING,profitandloss,1289,UNITDSPR,tax_percentage,Abnormal tax percentage: 99.0% with PBT=73.0,99.0
+DQ-08,WARNING,profitandloss,1302,VBL,tax_percentage,Abnormal tax percentage: -20.0% with PBT=21.0,-20.0
+DQ-08,WARNING,profitandloss,1304,VBL,tax_percentage,Abnormal tax percentage: 99.0% with PBT=4.0,99.0
+DQ-08,WARNING,profitandloss,1316,VEDL,tax_percentage,Abnormal tax percentage: -9.0% with PBT=9493.0,-9.0
+DQ-08,WARNING,profitandloss,1347,ZOMATO,tax_percentage,Abnormal tax percentage: -21.0% with PBT=291.0,-21.0
+DQ-08,WARNING,profitandloss,1373,INDIGO,tax_percentage,Abnormal tax percentage: -2.0% with PBT=8043.0,-2.0
+DQ-09,WARNING,profitandloss,167,AMBUJACEM,dividend_payout,Unusual dividend payout percentage: 151.0%,151.0
+DQ-09,WARNING,profitandloss,287,BHARTIARTL,dividend_payout,Unusual dividend payout percentage: 194.0%,194.0
+DQ-09,WARNING,profitandloss,288,BHARTIARTL,dividend_payout,Unusual dividend payout percentage: 244.0%,244.0
+DQ-09,WARNING,profitandloss,289,BHARTIARTL,dividend_payout,Unusual dividend payout percentage: -3.0%,-3.0
+DQ-09,WARNING,profitandloss,311,BHEL,dividend_payout,Unusual dividend payout percentage: -14.0%,-14.0
+DQ-09,WARNING,profitandloss,313,BHEL,dividend_payout,Unusual dividend payout percentage: 151.0%,151.0
+DQ-09,WARNING,profitandloss,355,BRITANNIA,dividend_payout,Unusual dividend payout percentage: 204.0%,204.0
+DQ-09,WARNING,profitandloss,445,DLF,dividend_payout,Unusual dividend payout percentage: -85.0%,-85.0
+DQ-09,WARNING,profitandloss,609,HINDALCO,dividend_payout,Unusual dividend payout percentage: -82.0%,-82.0
+DQ-09,WARNING,profitandloss,730,IOC,dividend_payout,Unusual dividend payout percentage: -437.0%,-437.0
+DQ-09,WARNING,profitandloss,805,JSWSTEEL,dividend_payout,Unusual dividend payout percentage: -67.0%,-67.0
+DQ-09,WARNING,profitandloss,881,M&M,dividend_payout,Unusual dividend payout percentage: 205.0%,205.0
+DQ-09,WARNING,profitandloss,917,NAUKRI,dividend_payout,Unusual dividend payout percentage: -230.0%,-230.0
+DQ-09,WARNING,profitandloss,920,NAUKRI,dividend_payout,Unusual dividend payout percentage: -31.0%,-31.0
+DQ-09,WARNING,profitandloss,923,NAUKRI,dividend_payout,Unusual dividend payout percentage: -228.0%,-228.0
+DQ-09,WARNING,profitandloss,932,NESTLEIND,dividend_payout,Unusual dividend payout percentage: 168.0%,168.0
+DQ-09,WARNING,profitandloss,1007,PNB,dividend_payout,Unusual dividend payout percentage: -2.0%,-2.0
+DQ-09,WARNING,profitandloss,1073,SBIN,dividend_payout,Unusual dividend payout percentage: 859.0%,859.0
+DQ-09,WARNING,profitandloss,1136,TATACONSUM,dividend_payout,Unusual dividend payout percentage: -999.0%,-999.0
+DQ-09,WARNING,profitandloss,1159,TATAPOWER,dividend_payout,Unusual dividend payout percentage: -319.0%,-319.0
+DQ-09,WARNING,profitandloss,1160,TATAPOWER,dividend_payout,Unusual dividend payout percentage: -114.0%,-114.0
+DQ-09,WARNING,profitandloss,1161,TATAPOWER,dividend_payout,Unusual dividend payout percentage: 210.0%,210.0
+DQ-09,WARNING,profitandloss,1172,TATASTEEL,dividend_payout,Unusual dividend payout percentage: -11.0%,-11.0
+DQ-09,WARNING,profitandloss,1174,TATASTEEL,dividend_payout,Unusual dividend payout percentage: -20.0%,-20.0
+DQ-09,WARNING,profitandloss,1175,TATASTEEL,dividend_payout,Unusual dividend payout percentage: -203.0%,-203.0
+DQ-09,WARNING,profitandloss,1176,TATASTEEL,dividend_payout,Unusual dividend payout percentage: -23.0%,-23.0
+DQ-09,WARNING,profitandloss,1183,TATASTEEL,dividend_payout,Unusual dividend payout percentage: -101.0%,-101.0
+DQ-09,WARNING,profitandloss,1237,TRENT,dividend_payout,Unusual dividend payout percentage: -87.0%,-87.0
+DQ-09,WARNING,profitandloss,1238,TRENT,dividend_payout,Unusual dividend payout percentage: -125.0%,-125.0
+DQ-09,WARNING,profitandloss,1245,TRENT,dividend_payout,Unusual dividend payout percentage: -15.0%,-15.0
+DQ-09,WARNING,profitandloss,1289,UNITDSPR,dividend_payout,Unusual dividend payout percentage: -31.0%,-31.0
+DQ-09,WARNING,profitandloss,1317,VEDL,dividend_payout,Unusual dividend payout percentage: -8.0%,-8.0
+DQ-09,WARNING,profitandloss,1318,VEDL,dividend_payout,Unusual dividend payout percentage: -8.0%,-8.0
+DQ-09,WARNING,profitandloss,1322,VEDL,dividend_payout,Unusual dividend payout percentage: -22.0%,-22.0
+DQ-09,WARNING,profitandloss,1325,VEDL,dividend_payout,Unusual dividend payout percentage: 357.0%,357.0
+DQ-09,WARNING,profitandloss,1326,VEDL,dividend_payout,Unusual dividend payout percentage: 259.0%,259.0
+DQ-10,WARNING,documents,770,IOC,annual_report,Invalid URL format in column 'annual_report': bseindia.com/xml-data/corpfiling/AttachH...,bseindia.com/xml-data/corpfiling/AttachHis/24a0940
+DQ-10,WARNING,documents,771,IOC,annual_report,Invalid URL format in column 'annual_report': bseindia.com/xml-data/corpfiling/AttachH...,bseindia.com/xml-data/corpfiling/AttachHis//ae413f
+DQ-10,WARNING,documents,899,KOTAKBANK,annual_report,Invalid URL format in column 'annual_report': bseindia.com/xml-data/corpfiling/AttachH...,bseindia.com/xml-data/corpfiling/AttachHis//b9e0c8
+DQ-10,WARNING,documents,900,KOTAKBANK,annual_report,Invalid URL format in column 'annual_report': bseindia.com/bseplus/AnnualReport/500247...,bseindia.com/bseplus/AnnualReport/500247/739325002
+DQ-10,WARNING,documents,901,KOTAKBANK,annual_report,Invalid URL format in column 'annual_report': bseindia.com/bseplus/AnnualReport/500247...,bseindia.com/bseplus/AnnualReport/500247/691605002
+DQ-10,WARNING,documents,905,KOTAKBANK,annual_report,Invalid URL format in column 'annual_report': bseindia.com/bseplus/AnnualReport/500247...,bseindia.com/bseplus/AnnualReport/500247/500247031
+DQ-10,WARNING,documents,906,KOTAKBANK,annual_report,Invalid URL format in column 'annual_report': 5002470316.pdf...,5002470316.pdf
+DQ-10,WARNING,documents,907,KOTAKBANK,annual_report,Invalid URL format in column 'annual_report': 5002470315.pdf...,5002470315.pdf
+DQ-10,WARNING,documents,909,KOTAKBANK,annual_report,Invalid URL format in column 'annual_report': untitled...,untitled
+DQ-10,WARNING,documents,910,KOTAKBANK,annual_report,Invalid URL format in column 'annual_report': bseindia.com/bseplus/AnnualReport/500247...,bseindia.com/bseplus/AnnualReport/500247/500247031
+DQ-10,WARNING,documents,911,KOTAKBANK,annual_report,Invalid URL format in column 'annual_report': 5002470311.pdf...,5002470311.pdf
+DQ-11,WARNING,profitandloss,881,M&M,"eps, net_profit","EPS sign discordance: Net Profit=-321.0, EPS=1.0",NP_-321.0_EPS_1.0
+DQ-11,WARNING,profitandloss,915,NAUKRI,"eps, net_profit","EPS sign discordance: Net Profit=-14.0, EPS=2.0",NP_-14.0_EPS_2.0
+DQ-11,WARNING,profitandloss,1160,TATAPOWER,"eps, net_profit","EPS sign discordance: Net Profit=12.0, EPS=-1.0",NP_12.0_EPS_-1.0
+DQ-13,WARNING,profitandloss,JIOFIN,JIOFIN,year,Limited historical coverage: company 'JIOFIN' has only 2 years (< 5 years),2
+DQ-14,WARNING,stock_prices,30,ABB,prices,"Price range inversion on 2022-06-01: Open=3362.05, High=3339.06, Low=3241.42, Close=3300.45",3241.42_3362.05_3300.45_3339.06
+DQ-14,WARNING,stock_prices,75,ADANIENSOL,prices,"Price range inversion on 2021-03-01: Open=5575.31, High=5571.95, Low=5000.52, Close=5489.61",5000.52_5575.31_5489.61_5571.95
+DQ-14,WARNING,stock_prices,83,ADANIENSOL,prices,"Price range inversion on 2021-11-01: Open=4760.63, High=4742.96, Low=4551.21, Close=4667.34",4551.21_4760.63_4667.34_4742.96
+DQ-14,WARNING,stock_prices,102,ADANIENSOL,prices,"Price range inversion on 2023-06-01: Open=4113.49, High=4106.31, Low=3675.98, Close=4049.47",3675.98_4113.49_4049.47_4106.31
+DQ-14,WARNING,stock_prices,129,ADANIENT,prices,"Price range inversion on 2020-09-01: Open=5221.43, High=5214.32, Low=4849.1, Close=5143.91",4849.1_5221.43_5143.91_5214.32
+DQ-14,WARNING,stock_prices,144,ADANIENT,prices,"Price range inversion on 2021-12-01: Open=6171.41, High=6128.97, Low=5774.78, Close=6059.65",5774.78_6171.41_6059.65_6128.97
+DQ-14,WARNING,stock_prices,177,ADANIENT,prices,"Price range inversion on 2024-09-01: Open=9234.12, High=9730.42, Low=9300.6, Close=9407.43",9300.6_9234.12_9407.43_9730.42
+DQ-14,WARNING,stock_prices,194,ADANIGREEN,prices,"Price range inversion on 2021-02-01: Open=4182.59, High=4179.52, Low=4057.13, Close=4112.23",4057.13_4182.59_4112.23_4179.52
+DQ-14,WARNING,stock_prices,212,ADANIGREEN,prices,"Price range inversion on 2022-08-01: Open=4994.85, High=5663.47, Low=5001.81, Close=5069.87",5001.81_4994.85_5069.87_5663.47
+DQ-14,WARNING,stock_prices,253,ADANIPORTS,prices,"Price range inversion on 2021-01-01: Open=1172.75, High=1169.27, Low=1029.9, Close=1152.75",1029.9_1172.75_1152.75_1169.27
+DQ-14,WARNING,stock_prices,342,ADANIPOWER,prices,"Price range inversion on 2023-06-01: Open=1623.59, High=1609.82, Low=1444.4, Close=1592.27",1444.4_1623.59_1592.27_1609.82
+DQ-14,WARNING,stock_prices,395,AMBUJACEM,prices,"Price range inversion on 2022-11-01: Open=430.13, High=463.66, Low=431.29, Close=436.66",431.29_430.13_436.66_463.66
+DQ-14,WARNING,stock_prices,426,APOLLOHOSP,prices,"Price range inversion on 2020-06-01: Open=3199.24, High=3592.77, Low=3215.54, Close=3264.32",3215.54_3199.24_3264.32_3592.77
+DQ-14,WARNING,stock_prices,444,APOLLOHOSP,prices,"Price range inversion on 2021-12-01: Open=4756.05, High=5163.26, Low=4777.77, Close=4845.4",4777.77_4756.05_4845.4_5163.26
+DQ-14,WARNING,stock_prices,466,APOLLOHOSP,prices,"Price range inversion on 2023-10-01: Open=3453.25, High=3445.88, Low=3373.57, Close=3408.47",3373.57_3453.25_3408.47_3445.88
+DQ-14,WARNING,stock_prices,499,ASIANPAINT,prices,"Price range inversion on 2021-07-01: Open=1990.06, High=2165.93, Low=2003.63, Close=2029.27",2003.63_1990.06_2029.27_2165.93
+DQ-14,WARNING,stock_prices,502,ASIANPAINT,prices,"Price range inversion on 2021-10-01: Open=2349.33, High=2589.23, Low=2364.22, Close=2394.97",2364.22_2349.33_2394.97_2589.23
+DQ-14,WARNING,stock_prices,567,ATGL,prices,"Price range inversion on 2022-03-01: Open=2164.51, High=2382.84, Low=2172.13, Close=2201.76",2172.13_2164.51_2201.76_2382.84
+DQ-14,WARNING,stock_prices,568,ATGL,prices,"Price range inversion on 2022-04-01: Open=2057.03, High=2129.45, Low=2059.07, Close=2091.15",2059.07_2057.03_2091.15_2129.45
+DQ-14,WARNING,stock_prices,709,BAJAJ-AUTO,prices,"Price range inversion on 2024-01-01: Open=9620.33, High=10015.53, Low=9670.98, Close=9789.8",9670.98_9620.33_9789.8_10015.53
+DQ-14,WARNING,stock_prices,726,BAJAJFINSV,prices,"Price range inversion on 2020-06-01: Open=4559.69, High=4557.17, Low=4159.66, Close=4491.54",4159.66_4559.69_4491.54_4557.17
+DQ-14,WARNING,stock_prices,733,BAJAJFINSV,prices,"Price range inversion on 2021-01-01: Open=4465.14, High=4444.05, Low=3986.64, Close=4381.31",3986.64_4465.14_4381.31_4444.05
+DQ-14,WARNING,stock_prices,774,BAJAJFINSV,prices,"Price range inversion on 2024-06-01: Open=5911.92, High=6543.6, Low=5936.1, Close=6032.3",5936.1_5911.92_6032.3_6543.6
+DQ-14,WARNING,stock_prices,853,BAJFINANCE,prices,"Price range inversion on 2021-01-01: Open=1402.64, High=1402.06, Low=1318.77, Close=1386.09",1318.77_1402.64_1386.09_1402.06
+DQ-14,WARNING,stock_prices,894,BAJFINANCE,prices,"Price range inversion on 2024-06-01: Open=2072.69, High=2252.44, Low=2083.73, Close=2106.61",2083.73_2072.69_2106.61_2252.44
+DQ-14,WARNING,stock_prices,895,BAJFINANCE,prices,"Price range inversion on 2024-07-01: Open=2029.96, High=2025.98, Low=1852.83, Close=2004.4",1852.83_2029.96_2004.4_2025.98
+DQ-14,WARNING,stock_prices,972,BEL,prices,"Price range inversion on 2020-12-01: Open=1958.82, High=1958.13, Low=1709.53, Close=1934.32",1709.53_1958.82_1934.32_1958.13
+DQ-14,WARNING,stock_prices,1048,BHARTIARTL,prices,"Price range inversion on 2022-04-01: Open=3673.83, High=4120.21, Low=3690.94, Close=3738.84",3690.94_3673.83_3738.84_4120.21
+DQ-14,WARNING,stock_prices,1061,BHARTIARTL,prices,"Price range inversion on 2023-05-01: Open=4041.74, High=4038.33, Low=3533.37, Close=3990.74",3533.37_4041.74_3990.74_4038.33
+DQ-14,WARNING,stock_prices,1116,BHEL,prices,"Price range inversion on 2022-12-01: Open=2271.01, High=2269.07, Low=2041.31, Close=2227.53",2041.31_2271.01_2227.53_2269.07
+DQ-14,WARNING,stock_prices,1269,BRITANNIA,prices,"Price range inversion on 2020-09-01: Open=795.34, High=859.68, Low=800.55, Close=809.12",800.55_795.34_809.12_859.68
+DQ-14,WARNING,stock_prices,1293,BRITANNIA,prices,"Price range inversion on 2022-09-01: Open=385.93, High=421.36, Low=386.74, Close=392.48",386.74_385.93_392.48_421.36
+DQ-14,WARNING,stock_prices,1323,CANBK,prices,"Price range inversion on 2020-03-01: Open=1377.01, High=1416.56, Low=1380.07, Close=1396.44",1380.07_1377.01_1396.44_1416.56
+DQ-14,WARNING,stock_prices,1361,CANBK,prices,"Price range inversion on 2023-05-01: Open=2232.84, High=2514.23, Low=2238.57, Close=2268.22",2238.57_2232.84_2268.22_2514.23
+DQ-14,WARNING,stock_prices,1416,CHOLAFIN,prices,"Price range inversion on 2022-12-01: Open=1414.51, High=1583.4, Low=1421.68, Close=1436.76",1421.68_1414.51_1436.76_1583.4
+DQ-14,WARNING,stock_prices,1439,CHOLAFIN,prices,"Price range inversion on 2024-11-01: Open=1936.14, High=2062.48, Low=1948.85, Close=1972.13",1948.85_1936.14_1972.13_2062.48
+DQ-14,WARNING,stock_prices,1447,CIPLA,prices,"Price range inversion on 2020-07-01: Open=2300.54, High=2558.87, Low=2309.86, Close=2342.38",2309.86_2300.54_2342.38_2558.87
+DQ-14,WARNING,stock_prices,1588,DABUR,prices,"Price range inversion on 2022-04-01: Open=1514.23, High=1572.09, Low=1519.2, Close=1536.96",1519.2_1514.23_1536.96_1572.09
+DQ-14,WARNING,stock_prices,1624,DIVISLAB,prices,"Price range inversion on 2020-04-01: Open=3264.08, High=3435.69, Low=3266.19, Close=3317.47",3266.19_3264.08_3317.47_3435.69
+DQ-14,WARNING,stock_prices,1625,DIVISLAB,prices,"Price range inversion on 2020-05-01: Open=3641.92, High=3633.84, Low=3397.8, Close=3589.89",3397.8_3641.92_3589.89_3633.84
+DQ-14,WARNING,stock_prices,1707,DLF,prices,"Price range inversion on 2022-03-01: Open=2251.7, High=2243.87, Low=2023.06, Close=2211.83",2023.06_2251.7_2211.83_2243.87
+DQ-14,WARNING,stock_prices,1738,DLF,prices,"Price range inversion on 2024-10-01: Open=4263.63, High=4247.47, Low=3843.33, Close=4194.7",3843.33_4263.63_4194.7_4247.47
+DQ-14,WARNING,stock_prices,1884,EICHERMOT,prices,"Price range inversion on 2021-12-01: Open=1003.37, High=1039.03, Low=1008.43, Close=1021.33",1008.43_1003.37_1021.33_1039.03
+DQ-14,WARNING,stock_prices,1895,EICHERMOT,prices,"Price range inversion on 2022-11-01: Open=1139.19, High=1133.34, Low=1108.38, Close=1121.46",1108.38_1139.19_1121.46_1133.34
+DQ-14,WARNING,stock_prices,1939,GAIL,prices,"Price range inversion on 2021-07-01: Open=327.42, High=361.41, Low=328.08, Close=333.53",328.08_327.42_333.53_361.41
+DQ-14,WARNING,stock_prices,2067,GRASIM,prices,"Price range inversion on 2022-03-01: Open=6860.47, High=6836.31, Low=6606.33, Close=6726.04",6606.33_6860.47_6726.04_6836.31
+DQ-14,WARNING,stock_prices,2219,HAVELLS,prices,"Price range inversion on 2024-11-01: Open=2338.34, High=2473.99, Low=2342.5, Close=2370.13",2342.5_2338.34_2370.13_2473.99
+DQ-14,WARNING,stock_prices,2269,HCLTECH,prices,"Price range inversion on 2024-01-01: Open=1034.37, High=1162.43, Low=1039.37, Close=1052.89",1039.37_1034.37_1052.89_1162.43
+DQ-14,WARNING,stock_prices,2274,HCLTECH,prices,"Price range inversion on 2024-06-01: Open=834.13, High=890.93, Low=835.62, Close=845.64",835.62_834.13_845.64_890.93
+DQ-14,WARNING,stock_prices,2310,HDFCBANK,prices,"Price range inversion on 2022-06-01: Open=4313.19, High=4596.85, Low=4343.95, Close=4391.71",4343.95_4313.19_4391.71_4596.85
+DQ-14,WARNING,stock_prices,2324,HDFCBANK,prices,"Price range inversion on 2023-08-01: Open=4584.29, High=4548.92, Low=4439.99, Close=4499.81",4439.99_4584.29_4499.81_4548.92
+DQ-14,WARNING,stock_prices,2341,HDFCLIFE,prices,"Price range inversion on 2020-01-01: Open=2323.39, High=2440.24, Low=2330.18, Close=2361.06",2330.18_2323.39_2361.06_2440.24
+DQ-14,WARNING,stock_prices,2418,HEROMOTOCO,prices,"Price range inversion on 2021-06-01: Open=920.43, High=913.04, Low=805.36, Close=903.75",805.36_920.43_903.75_913.04
+DQ-14,WARNING,stock_prices,2433,HEROMOTOCO,prices,"Price range inversion on 2022-09-01: Open=716.03, High=748.13, Low=718.47, Close=727.47",718.47_716.03_727.47_748.13
+DQ-14,WARNING,stock_prices,2504,HINDALCO,prices,"Price range inversion on 2023-08-01: Open=2805.58, High=2799.68, Low=2658.35, Close=2765.51",2658.35_2805.58_2765.51_2799.68
+DQ-14,WARNING,stock_prices,2550,HINDUNILVR,prices,"Price range inversion on 2022-06-01: Open=441.55, High=440.68, Low=408.28, Close=434.12",408.28_441.55_434.12_440.68
+DQ-14,WARNING,stock_prices,2571,HINDUNILVR,prices,"Price range inversion on 2024-03-01: Open=308.95, High=347.66, Low=310.51, Close=313.71",310.51_308.95_313.71_347.66
+DQ-14,WARNING,stock_prices,2576,HINDUNILVR,prices,"Price range inversion on 2024-08-01: Open=410.07, High=406.56, Low=378.97, Close=402.48",378.97_410.07_402.48_406.56
+DQ-14,WARNING,stock_prices,2690,ICICIGI,prices,"Price range inversion on 2024-02-01: Open=1896.75, High=1886.72, Low=1790.8, Close=1859.89",1790.8_1896.75_1859.89_1886.72
+DQ-14,WARNING,stock_prices,2708,ICICIPRULI,prices,"Price range inversion on 2020-08-01: Open=3624.0, High=3786.23, Low=3631.98, Close=3691.19",3631.98_3624.0_3691.19_3786.23
+DQ-14,WARNING,stock_prices,2786,INDIGO,prices,"Price range inversion on 2022-02-01: Open=2491.79, High=2576.72, Low=2494.59, Close=2522.2",2494.59_2491.79_2522.2_2576.72
+DQ-14,WARNING,stock_prices,2847,INDUSINDBK,prices,"Price range inversion on 2022-03-01: Open=4417.94, High=4397.92, Low=4114.72, Close=4340.65",4114.72_4417.94_4340.65_4397.92
+DQ-14,WARNING,stock_prices,2901,INFY,prices,"Price range inversion on 2021-09-01: Open=4302.19, High=4279.37, Low=3951.08, Close=4231.41",3951.08_4302.19_4231.41_4279.37
+DQ-14,WARNING,stock_prices,2966,IOC,prices,"Price range inversion on 2022-02-01: Open=754.68, High=753.81, Low=718.87, Close=746.05",718.87_754.68_746.05_753.81
+DQ-14,WARNING,stock_prices,2972,IOC,prices,"Price range inversion on 2022-08-01: Open=1108.96, High=1108.65, Low=1072.45, Close=1097.64",1072.45_1108.96_1097.64_1108.65
+DQ-14,WARNING,stock_prices,3029,IRCTC,prices,"Price range inversion on 2022-05-01: Open=6671.26, High=6640.61, Low=5999.08, Close=6543.04",5999.08_6671.26_6543.04_6640.61
+DQ-14,WARNING,stock_prices,3037,IRCTC,prices,"Price range inversion on 2023-01-01: Open=7278.95, High=7783.24, Low=7343.22, Close=7420.09",7343.22_7278.95_7420.09_7783.24
+DQ-14,WARNING,stock_prices,3054,IRCTC,prices,"Price range inversion on 2024-06-01: Open=9591.45, High=10801.8, Low=9610.39, Close=9745.82",9610.39_9591.45_9745.82_10801.8
+DQ-14,WARNING,stock_prices,3066,IRFC,prices,"Price range inversion on 2020-06-01: Open=4237.71, High=4461.3, Low=4256.11, Close=4310.89",4256.11_4237.71_4310.89_4461.3
+DQ-14,WARNING,stock_prices,3075,IRFC,prices,"Price range inversion on 2021-03-01: Open=4106.48, High=4240.86, Low=4131.9, Close=4175.38",4131.9_4106.48_4175.38_4240.86
+DQ-14,WARNING,stock_prices,3114,IRFC,prices,"Price range inversion on 2024-06-01: Open=5321.02, High=5283.65, Low=5043.35, Close=5219.03",5043.35_5321.02_5219.03_5283.65
+DQ-14,WARNING,stock_prices,3182,JINDALSTEL,prices,"Price range inversion on 2020-02-01: Open=5097.91, High=5489.38, Low=5106.78, Close=5186.99",5106.78_5097.91_5186.99_5489.38
+DQ-14,WARNING,stock_prices,3191,JINDALSTEL,prices,"Price range inversion on 2020-11-01: Open=6236.09, High=6911.64, Low=6286.65, Close=6354.45",6286.65_6236.09_6354.45_6911.64
+DQ-14,WARNING,stock_prices,3221,JINDALSTEL,prices,"Price range inversion on 2023-05-01: Open=6815.33, High=7219.47, Low=6835.03, Close=6928.05",6835.03_6815.33_6928.05_7219.47
+DQ-14,WARNING,stock_prices,3266,JIOFIN,prices,"Price range inversion on 2022-02-01: Open=5753.57, High=5710.95, Low=5455.35, Close=5648.39",5455.35_5753.57_5648.39_5710.95
+DQ-14,WARNING,stock_prices,3288,JIOFIN,prices,"Price range inversion on 2023-12-01: Open=8502.48, High=9373.47, Low=8506.92, Close=8599.67",8506.92_8502.48_8599.67_9373.47
+DQ-14,WARNING,stock_prices,3289,JIOFIN,prices,"Price range inversion on 2024-01-01: Open=8469.8, High=8454.55, Low=7987.84, Close=8364.35",7987.84_8469.8_8364.35_8454.55
+DQ-14,WARNING,stock_prices,3300,JIOFIN,prices,"Price range inversion on 2024-12-01: Open=9759.81, High=11055.34, Low=9841.56, Close=9945.52",9841.56_9759.81_9945.52_11055.34
+DQ-14,WARNING,stock_prices,3311,JSWENERGY,prices,"Price range inversion on 2020-11-01: Open=5046.93, High=5681.39, Low=5058.05, Close=5148.26",5058.05_5046.93_5148.26_5681.39
+DQ-14,WARNING,stock_prices,3327,JSWENERGY,prices,"Price range inversion on 2022-03-01: Open=8436.25, High=9530.12, Low=8475.13, Close=8570.33",8475.13_8436.25_8570.33_9530.12
+DQ-14,WARNING,stock_prices,3340,JSWENERGY,prices,"Price range inversion on 2023-04-01: Open=9290.93, High=9280.72, Low=8247.47, Close=9172.55",8247.47_9290.93_9172.55_9280.72
+DQ-14,WARNING,stock_prices,3342,JSWENERGY,prices,"Price range inversion on 2023-06-01: Open=8619.9, High=8610.1, Low=8107.53, Close=8452.59",8107.53_8619.9_8452.59_8610.1
+DQ-14,WARNING,stock_prices,3345,JSWENERGY,prices,"Price range inversion on 2023-09-01: Open=6328.2, High=7176.04, Low=6352.98, Close=6424.02",6352.98_6328.2_6424.02_7176.04
+DQ-14,WARNING,stock_prices,3353,JSWENERGY,prices,"Price range inversion on 2024-05-01: Open=7059.52, High=7601.52, Low=7105.17, Close=7199.04",7105.17_7059.52_7199.04_7601.52
+DQ-14,WARNING,stock_prices,3463,KOTAKBANK,prices,"Price range inversion on 2023-07-01: Open=1415.31, High=1458.23, Low=1418.05, Close=1436.48",1418.05_1415.31_1436.48_1458.23
+DQ-14,WARNING,stock_prices,3487,LICI,prices,"Price range inversion on 2020-07-01: Open=281.64, High=311.59, Low=282.36, Close=286.39",282.36_281.64_286.39_311.59
+DQ-14,WARNING,stock_prices,3639,LT,prices,"Price range inversion on 2023-03-01: Open=2472.11, High=2816.44, Low=2489.76, Close=2516.0",2489.76_2472.11_2516.0_2816.44
+DQ-14,WARNING,stock_prices,3658,LT,prices,"Price range inversion on 2024-10-01: Open=2917.68, High=3216.88, Low=2935.62, Close=2966.18",2935.62_2917.68_2966.18_3216.88
+DQ-14,WARNING,stock_prices,3795,MARUTI,prices,"Price range inversion on 2021-03-01: Open=1779.51, High=1971.05, Low=1780.41, Close=1805.24",1780.41_1779.51_1805.24_1971.05
+DQ-14,WARNING,stock_prices,3845,MOTHERSON,prices,"Price range inversion on 2020-05-01: Open=1511.03, High=1604.36, Low=1517.6, Close=1541.64",1517.6_1511.03_1541.64_1604.36
+DQ-14,WARNING,stock_prices,3880,MOTHERSON,prices,"Price range inversion on 2023-04-01: Open=2547.79, High=2545.54, Low=2365.34, Close=2501.67",2365.34_2547.79_2501.67_2545.54
+DQ-14,WARNING,stock_prices,3950,NAUKRI,prices,"Price range inversion on 2024-02-01: Open=3512.2, High=3775.02, Low=3519.14, Close=3570.82",3519.14_3512.2_3570.82_3775.02
+DQ-14,WARNING,stock_prices,3997,NESTLEIND,prices,"Price range inversion on 2023-01-01: Open=500.46, High=499.78, Low=443.34, Close=494.48",443.34_500.46_494.48_499.78
+DQ-14,WARNING,stock_prices,4067,NHPC,prices,"Price range inversion on 2023-11-01: Open=8927.35, High=8875.96, Low=7776.26, Close=8764.38",7776.26_8927.35_8764.38_8875.96
+DQ-14,WARNING,stock_prices,4170,ONGC,prices,"Price range inversion on 2022-06-01: Open=7757.04, High=7731.56, Low=7191.33, Close=7609.18",7191.33_7757.04_7609.18_7731.56
+DQ-14,WARNING,stock_prices,4234,PFC,prices,"Price range inversion on 2022-10-01: Open=7809.71, High=7807.18, Low=7551.47, Close=7696.24",7551.47_7809.71_7696.24_7807.18
+DQ-14,WARNING,stock_prices,4246,PFC,prices,"Price range inversion on 2023-10-01: Open=6799.54, High=6772.9, Low=6527.33, Close=6667.23",6527.33_6799.54_6667.23_6772.9
+DQ-14,WARNING,stock_prices,4297,PIDILITIND,prices,"Price range inversion on 2023-01-01: Open=764.07, High=762.91, Low=718.22, Close=749.18",718.22_764.07_749.18_762.91
+DQ-14,WARNING,stock_prices,4350,PNB,prices,"Price range inversion on 2022-06-01: Open=139.09, High=138.76, Low=129.07, Close=136.49",129.07_139.09_136.49_138.76
+DQ-14,WARNING,stock_prices,4439,POWERGRID,prices,"Price range inversion on 2024-11-01: Open=6672.46, High=6653.54, Low=6444.57, Close=6547.57",6444.57_6672.46_6547.57_6653.54
+DQ-14,WARNING,stock_prices,4445,RECLTD,prices,"Price range inversion on 2020-05-01: Open=4164.6, High=4149.22, Low=3866.96, Close=4094.41",3866.96_4164.6_4094.41_4149.22
+DQ-14,WARNING,stock_prices,4455,RECLTD,prices,"Price range inversion on 2021-03-01: Open=5782.74, High=5746.03, Low=5610.99, Close=5687.84",5610.99_5782.74_5687.84_5746.03
+DQ-14,WARNING,stock_prices,4534,RELIANCE,prices,"Price range inversion on 2022-10-01: Open=2508.51, High=2805.45, Low=2522.75, Close=2555.62",2522.75_2508.51_2555.62_2805.45
+DQ-14,WARNING,stock_prices,4555,RELIANCE,prices,"Price range inversion on 2024-07-01: Open=2221.78, High=2322.12, Low=2225.64, Close=2261.27",2225.64_2221.78_2261.27_2322.12
+DQ-14,WARNING,stock_prices,4639,SBIN,prices,"Price range inversion on 2021-07-01: Open=651.56, High=690.19, Low=655.88, Close=664.67",655.88_651.56_664.67_690.19
+DQ-14,WARNING,stock_prices,4694,SHREECEM,prices,"Price range inversion on 2021-02-01: Open=1218.67, High=1303.82, Low=1228.08, Close=1243.17",1228.08_1218.67_1243.17_1303.82
+DQ-14,WARNING,stock_prices,4727,SHREECEM,prices,"Price range inversion on 2023-11-01: Open=2644.65, High=2638.67, Low=2554.78, Close=2601.72",2554.78_2644.65_2601.72_2638.67
+DQ-14,WARNING,stock_prices,4737,SHREECEM,prices,"Price range inversion on 2024-09-01: Open=2517.31, High=2767.58, Low=2523.14, Close=2562.33",2523.14_2517.31_2562.33_2767.58
+DQ-14,WARNING,stock_prices,4738,SHREECEM,prices,"Price range inversion on 2024-10-01: Open=2570.15, High=2817.21, Low=2581.18, Close=2617.1",2581.18_2570.15_2617.1_2817.21
+DQ-14,WARNING,stock_prices,4766,SHRIRAMFIN,prices,"Price range inversion on 2022-02-01: Open=1127.48, High=1188.01, Low=1130.95, Close=1148.76",1130.95_1127.48_1148.76_1188.01
+DQ-14,WARNING,stock_prices,4771,SHRIRAMFIN,prices,"Price range inversion on 2022-07-01: Open=1524.11, High=1524.1, Low=1388.0, Close=1501.14",1388.0_1524.11_1501.14_1524.1
+DQ-14,WARNING,stock_prices,4793,SHRIRAMFIN,prices,"Price range inversion on 2024-05-01: Open=1149.16, High=1148.96, Low=1027.38, Close=1136.84",1027.38_1149.16_1136.84_1148.96
+DQ-14,WARNING,stock_prices,4819,SIEMENS,prices,"Price range inversion on 2021-07-01: Open=4058.13, High=4592.62, Low=4073.55, Close=4140.4",4073.55_4058.13_4140.4_4592.62
+DQ-14,WARNING,stock_prices,5123,TATASTEEL,prices,"Price range inversion on 2021-11-01: Open=2277.36, High=2345.02, Low=2284.53, Close=2314.96",2284.53_2277.36_2314.96_2345.02
+DQ-14,WARNING,stock_prices,5215,TCS,prices,"Price range inversion on 2024-07-01: Open=5044.73, High=5042.8, Low=4613.67, Close=4966.5",4613.67_5044.73_4966.5_5042.8
+DQ-14,WARNING,stock_prices,5341,TORNTPHARM,prices,"Price range inversion on 2020-01-01: Open=2333.77, High=2560.3, Low=2339.89, Close=2375.4",2339.89_2333.77_2375.4_2560.3
+DQ-14,WARNING,stock_prices,5375,TORNTPHARM,prices,"Price range inversion on 2022-11-01: Open=1784.99, High=1777.19, Low=1662.67, Close=1755.51",1662.67_1784.99_1755.51_1777.19
+DQ-14,WARNING,stock_prices,5385,TORNTPHARM,prices,"Price range inversion on 2023-09-01: Open=1952.98, High=1952.57, Low=1703.72, Close=1915.22",1703.72_1952.98_1915.22_1952.57
+DQ-14,WARNING,stock_prices,5399,TORNTPHARM,prices,"Price range inversion on 2024-11-01: Open=2158.88, High=2318.0, Low=2164.57, Close=2193.28",2164.57_2158.88_2193.28_2318.0
+DQ-14,WARNING,stock_prices,5447,TRENT,prices,"Price range inversion on 2023-11-01: Open=1442.21, High=1594.47, Low=1446.87, Close=1466.02",1446.87_1442.21_1466.02_1594.47

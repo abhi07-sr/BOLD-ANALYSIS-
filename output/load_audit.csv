@@ -1,0 +1,13 @@
+table_name,raw_file_records,valid_records_loaded,orphan_records_filtered,duplicate_records_deduped,critical_rejections_during_load,status
+companies,92,92,0,0,0,SUCCESS
+profitandloss,1276,1164,99,13,0,SUCCESS
+balancesheet,1312,1140,85,87,0,SUCCESS
+cashflow,1187,1075,89,23,0,SUCCESS
+financial_ratios,1184,1041,24,119,0,SUCCESS
+stock_prices,5520,5520,0,0,0,SUCCESS
+market_cap,552,552,0,0,0,SUCCESS
+documents,1585,1456,128,1,0,SUCCESS
+sectors,92,92,0,0,0,SUCCESS
+peer_groups,56,56,0,0,0,SUCCESS
+analysis,20,16,4,0,0,SUCCESS
+prosandcons,16,14,2,0,0,SUCCESS
